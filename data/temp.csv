@@ -1,0 +1,683 @@
+
+# T,# M,# J, ,# T,# M,# J,# Was,# Location,# Stadt,# Land,
+0,0,2012,-,0,0,2012,SoOnCamp, , ,Canada,http://www.sooncamp.ca/
+0,0,2013,-,0,0,2013,HITBSECCONF2013, , , ,http://conference.hitb.org/hitbsecconf2013ams/
+0,0,2017,-,0,0,2017,dOCUMENTA, ,Kassel,Deutschland,http://www.documenta.de/
+0,8,2015,-,31,8,2015,CCC Camp, , ,Deutschland,http://events.ccc.de 
+1,1,2012,-,1,1,2012,SoOnCamphttp://www.sooncamp.ca/, , ,Canada,
+1,1,2012,1,1,2012,SoOnCamp, , ,Canada,http://www.sooncamp.ca/
+1,1,2013,-,1,1,2013,Hamburger Maker-Treffenhttp://www.hamburger-makertreffen.de/, ,Hamburg,Deutschland,
+1,1,2013,1,1,2013,Hamburger Maker-Treffen, ,Hamburg,Deutschland,http://www.hamburger-makertreffen.de/
+1,1,2014,-,1,1,2014,HITBSECCONF2014http://conference.hitb.org/, ,Amsterdam,Niederlande,
+1,1,2014,1,1,2014,HITBSECCONF2014, ,Amsterdam,Niederlande,http://conference.hitb.org/
+1,12,2015,-,6,12,2015,chocolART Schokoladenfestivalhttp://www.chocolart.de/, ,Tübingen,Deutschland,
+1,12,2015,6,12,2015,chocolART Schokoladenfestival, ,Tübingen,Deutschland,http://www.chocolart.de/
+1,2,2013,-,2,2,2013,Air Style, , , ,http://www.air-style.com/start.html
+1,2,2013,-,2,2,2013,Air Stylehttp://www.air-style.com/, , , ,
+1,2,2013,2,2,2013,Air Style, , , ,http://www.air-style.com/
+1,2,2014,-,2,2,2014,Fosdem, ,Brüssel,Belgien,https://fosdem.org
+1,5,2015,-,3,5,2015,Vintage Computer Festivalhttp://www.vcfe.org/D/, , , ,
+1,5,2015,3,5,2015,Vintage Computer Festival, , , ,http://www.vcfe.org/D/
+1,8,2014,-,25,8,2014,Fringe Festival Edinburgh, , , ,http://www.edfringe.com/
+1,8,2014,-,25,8,2014,Fringe Festivalhttp://www.edfringe.com/, ,Edinburgh,UK,
+1,8,2014,25,8,2014,Fringe Festival, ,Edinburgh,UK,http://www.edfringe.com/
+1,8,2017,31,8,2017,CCC Camp, , ,Niederlande,http://events.ccc.de
+1,8,2019,-,31,8,2019,CCC Camphttp://events.ccc.de, , ,Deutschland,
+1,8,2019,31,8,2019,CCC Camp, , ,Deutschland,http://events.ccc.de
+1,8,2021,-,31,8,2019,CCC Camphttp://events.ccc.de, , ,Niederlande,
+1,8,2021,31,8,2021,CCC Camp, , ,Niederlande,http://events.ccc.de
+1,8,2023,-,31,8,2023,CCC Camphttp://events.ccc.de, , ,Deutschland,
+1,8,2023,31,8,2023,CCC Camp, , ,Deutschland,http://events.ccc.de
+1,8,2025,-,31,8,2025,CCC Camphttp://events.ccc.de, , ,Niederlande,
+1,8,2025,31,8,2025,CCC Camp, , ,Niederlande,http://events.ccc.de
+1,8,2027,-,31,8,2027,CCC Camphttp://events.ccc.de, , ,Deutschland,
+1,8,2027,31,8,2027,CCC Camp, , ,Deutschland,http://events.ccc.de
+1,8,2029,-,31,8,2029,CCC Camphttp://events.ccc.de, , ,Niederlande,
+1,8,2029,31,8,2029,CCC Camp, , ,Niederlande,http://events.ccc.de
+1,8,2031,-,31,8,2031,CCC Camphttp://events.ccc.de, , ,Deutschland,
+1,8,2031,31,8,2031,CCC Camp, , ,Deutschland,http://events.ccc.de
+1,8,2033,-,31,8,2033,CCC Camphttp://events.ccc.de, , ,Niederlande,
+1,8,2033,31,8,2033,CCC Camp, , ,Niederlande,http://events.ccc.de
+1,8,2035,-,31,8,2035,CCC Camphttp://events.ccc.de, , ,Deutschland,
+1,8,2035,31,8,2035,CCC Camp, , ,Deutschland,http://events.ccc.de
+1,8,2037,-,31,8,2037,CCC Camphttp://events.ccc.de, , ,Niederlande,
+1,8,2037,31,8,2037,CCC Camp, , ,Niederlande,http://events.ccc.de
+1,8,2039,-,31,8,2039,CCC Camphttp://events.ccc.de, , ,Deutschland,
+1,8,2039,31,8,2039,CCC Camp, , ,Deutschland,http://events.ccc.de
+1,8,2041,-,31,8,2041,CCC Camphttp://events.ccc.de, , ,Niederlande,
+1,8,2041,31,8,2041,CCC Camp, , ,Niederlande,http://events.ccc.de
+1,8,2043,-,31,8,2043,CCC Camphttp://events.ccc.de, , ,Deutschland,
+1,8,2043,31,8,2043,CCC Camp, , ,Deutschland,http://events.ccc.de
+1,8,2045,-,31,8,2045,CCC Camphttp://events.ccc.de, , ,Niederlande,
+1,8,2045,31,8,2045,CCC Camp, , ,Niederlande,http://events.ccc.de
+1,8,2047,-,31,8,2047,CCC Camphttp://events.ccc.de, , ,Deutschland,
+1,8,2047,31,8,2047,CCC Camp, , ,Deutschland,http://events.ccc.de
+1,8,2049,-,31,8,2049,CCC Camphttp://events.ccc.de, , ,Niederlande,
+1,8,2049,31,8,2049,CCC Camp, , ,Niederlande,http://events.ccc.de
+1,8,2051,-,31,8,2051,CCC Camphttp://events.ccc.de, , ,Deutschland,
+1,8,2051,31,8,2051,CCC Camp, , ,Deutschland,http://events.ccc.de
+1,8,2053,-,31,8,2053,CCC Camphttp://events.ccc.de, , ,Niederlande,
+1,8,2053,31,8,2053,CCC Camp, , ,Niederlande,http://events.ccc.de
+1,8,2055,-,31,8,2055,CCC Camphttp://events.ccc.de, , ,Deutschland,
+1,8,2055,31,8,2055,CCC Camp, , ,Deutschland,http://events.ccc.de
+1,8,2057,-,31,8,2057,CCC Camphttp://events.ccc.de, , ,Niederlande,
+1,8,2057,31,8,2057,CCC Camp, , ,Niederlande,http://events.ccc.de
+1,8,2059,-,31,8,2059,CCC Camphttp://events.ccc.de, , ,Deutschland,
+1,8,2059,31,8,2059,CCC Camp, , ,Deutschland,http://events.ccc.de
+1,8,2061,-,31,8,2061,CCC Camphttp://events.ccc.de, , ,Niederlande,
+1,8,2061,31,8,2061,CCC Camp, , ,Niederlande,http://events.ccc.de
+1,8,2063,-,31,8,2063,CCC Camphttp://events.ccc.de, , ,Deutschland,
+1,8,2063,31,8,2063,CCC Camp, , ,Deutschland,http://events.ccc.de
+1,8,2065,-,31,8,2065,CCC Camphttp://events.ccc.de, , ,Niederlande,
+1,8,2065,31,8,2065,CCC Camp, , ,Niederlande,http://events.ccc.de
+1,8,2067,-,31,8,2067,CCC Camphttp://events.ccc.de, , ,Deutschland,
+1,8,2067,31,8,2067,CCC Camp, , ,Deutschland,http://events.ccc.de
+1,8,2069,-,31,8,2069,CCC Camphttp://events.ccc.de, , ,Niederlande,
+1,8,2069,31,8,2069,CCC Camp, , ,Niederlande,http://events.ccc.de
+1,8,2071,-,31,8,2071,CCC Camphttp://events.ccc.de, , ,Deutschland,
+1,8,2071,31,8,2071,CCC Camp, , ,Deutschland,http://events.ccc.de
+1,8,2073,-,31,8,2073,CCC Camphttp://events.ccc.de, , ,Niederlande,
+1,8,2073,31,8,2073,CCC Camp, , ,Niederlande,http://events.ccc.de
+1,8,2075,-,31,8,2075,CCC Camphttp://events.ccc.de, , ,Deutschland,
+1,8,2075,31,8,2075,CCC Camp, , ,Deutschland,http://events.ccc.de
+10,4,2014,-,13,4,2014,Markt des guten Geschmacks,Deutschland,Stuttgart, ,http://www.messe-stuttgart.de/marktdesgutengeschmacks/
+10,5,2014,-,10,5,2014,LA CENERENTOLA,MET im Kino, , ,http://metimkino.de
+10,6,2017,-,17,9,2017,dOCUMENTAhttp://www.documenta.de/,various,Kassel,Germany,
+10,7,2012,-,10,7,2012,Sommerfestival der Kulturen, ,Stuttgart,Deutschland,http://www.forum-der-kulturen.de/
+10,7,2014,-,13,7,2014,Stadtfluchthttps://metalab.at/wiki/Stadtflucht, , ,Österreich,
+10,7,2014,13,7,2014,Stadtflucht, , ,Österreich,https://metalab.at/wiki/Stadtflucht
+10,9,2014,-,12,9,2014,Networking Field Dayhttp://techfieldday.com/nfd/, ,Las Vegas,USA,
+10,9,2014,12,9,2014,Networking Field Day, ,Las Vegas,USA,http://techfieldday.com/nfd/
+11,11,2014,-,11,11,2014,South Tyrol Free Software Conferencehttps://www.sfscon.it/de/, , ,,
+11,11,2014,11,11,2014,South Tyrol Free Software Conference, , , ,https://www.sfscon.it/de/
+11,11,2015,-,11,11,2015,Five Finger Death Punchhttp://www.schleyerhalle.de/,Porsche Arena,Stuttgart,Deutschland,
+11,4,2014,-,13,4,2014,UnFUCK, ,Furtwangen,Deutschland,http://unfuck.eu/2012
+11,4,2014,-,13,4,2014,UnFUCKhttp://unfuck.eu/2012, ,Furtwangen,Deutschland,
+11,4,2014,13,4,2014,UnFUCK, ,Furtwangen,Deutschland,http://unfuck.eu/2012
+11,7,2014,-,12,7,2014,Happiness Festival, ,Straubenhardt,Deutschland,http://happiness-festival.de/
+11,7,2014,-,12,7,2014,Happiness Festivalhttp://happiness-festival.de/, ,Straubenhardt,Deutschland,
+11,7,2014,-,12,7,2014,Unkonferenz für Computerlinguistikhttp://www.clunc.de/, ,Stuttgart,Deutschland,
+11,7,2014,12,7,2014,Happiness Festival, ,Straubenhardt,Deutschland,http://happiness-festival.de/
+11,7,2014,12,7,2014,Unkonferenz für Computerlinguistik, ,Stuttgart,Deutschland,http://www.clunc.de/
+11,7,2015,-,11,7,2015,Lichterfest Stuttgarthttp://www.lichterfest-stuttgart.de/, ,Stuttgart,Deutschland,
+11,7,2015,11,7,2015,Lichterfest Stuttgart, ,Stuttgart,Deutschland,http://www.lichterfest-stuttgart.de/
+11,8,2013,-,18,8,2013,DebConf13, , ,Schweiz,http://wiki.debconf.org/wiki/DebConf13
+11,9,2013,-,11,9,2013,Networking Field Day, , , ,http://techfieldday.com/nfd/
+11,9,2015,-,20,9,2015,Heilbronner Weindorf, ,Heilbronn,Deutschland,http://www.weindorf.biz/
+11,9,2015,-,20,9,2015,Heilbronner Weindorfhttp://www.weindorf.biz/, ,Heilbronn,Deutschland,
+11,9,2015,20,9,2015,Heilbronner Weindorf, ,Heilbronn,Deutschland,http://www.weindorf.biz/
+12,10,2013,-,12,10,2013,Groningen Mini Maker Fair, ,Groningen, ,http://mf050.nl/
+12,5,2014,-,13,5,2014,Mailserver Konferenz, ,Berlin,Deutschland,https://www.heinlein-support.de/mailserver-konferenz
+12,5,2014,-,13,5,2014,Mailserver Konferenzhttps://www.heinlein-support.de/mailserver-konferenz, ,Berlin,Deutschland,
+12,5,2014,13,5,2014,Mailserver Konferenz, ,Berlin,Deutschland,https://www.heinlein-support.de/mailserver-konferenz
+12,7,2013,-,12,7,2013,DIMVA, , ,Deutschland,http://dimva.sec.t-labs.tu-berlin.de/index.html
+12,7,2013,-,12,7,2013,DIMVAhttp://dimva.sec.t-labs.tu-berlin.de/index.html, , ,Deutschland,
+12,7,2013,12,7,2013,DIMVA, , ,Deutschland,http://dimva.sec.t-labs.tu-berlin.de/index.html
+12,7,2014,-,12,7,2014,Lichterfest Stuttgart, ,Stuttgart,Deutschland,http://www.lichterfest-stuttgart.de/
+12,9,2014,-,13,9,2014,Riga Conferencehttp://www.rigaconference.lv/12, ,Riga,Latvia,
+12,9,2014,-,21,9,2014,Heilbronner Weindorf, ,Heilbronn,Deutschland,http://www.weindorf.biz/
+12,9,2014,-,21,9,2014,Heilbronner Weindorfhttp://www.weindorf.biz/, ,Heilbronn,Deutschland,
+12,9,2014,13,9,2014,Riga Conference, ,Riga,Latvia,http://www.rigaconference.lv/
+12,9,2014,14,9,2014,devops-camp,Coworking Nürnberg,Nürnberg,Deutschland,http://www.devops-camp.de/
+12,9,2014,21,9,2014,Heilbronner Weindorf, ,Heilbronn,Deutschland,http://www.weindorf.biz/
+13,10,2014,-,15,10,2014,LinuxCon Edinburgh, ,Edinburgh,UK,http://events.linuxfoundation.org/events/linuxcon-europe/
+13,10,2014,-,15,10,2014,LinuxCon Edinburghhttp://events.linuxfoundation.org/events/linuxcon-europe/, ,Edinburgh,UK,
+13,10,2014,15,10,2014,LinuxCon Edinburgh, ,Edinburgh,UK,http://events.linuxfoundation.org/events/linuxcon-europe/
+13,11,2015,-,15,11,2015,No-Spy Konferenzhttps://no-spy.org/,Literaturhaus Stuttgart,Stuttgart,Deutschland,
+13,11,2015,15,11,2015,No-Spy Konferenz,Literaturhaus Stuttgart,Stuttgart,Deutschland,https://no-spy.org/
+13,8,2015,-,17,8,2015,CCC Camphttp://events.ccc.de , , ,Deutschland,
+13,8,2015,17,8,2015,CCC Camp, , ,Deutschland,http://events.ccc.de 
+13,9,2014,-,13,9,2014,Bodensee Radmarathon, , , ,http://www.bodensee-radmarathon.ch/
+13,9,2014,-,13,9,2014,Bodensee Radmarathonhttp://www.bodensee-radmarathon.ch/, , , ,
+13,9,2014,-,14,9,2014,Datenspurenhttp://www.datenspuren.de/2014/,Scheune,Dresden,Deutschland,
+13,9,2014,13,9,2014,Bodensee Radmarathon, , , ,http://www.bodensee-radmarathon.ch/
+13,9,2014,14,9,2014,Datenspuren,Scheune,Dresden,Deutschland,http://www.datenspuren.de/2014/
+14,10,2014,-,17,10,2014,Blackhat Europe, ,Amsterdam, ,http://www.blackhat4com/eu-13/
+14,10,2014,-,17,10,2014,Blackhat Europehttp://www.blackhat4com/eu-13/, ,Amsterdam,Niederlande,
+14,10,2014,17,10,2014,Blackhat Europe, ,Amsterdam,Niederlande,http://www.blackhat4com/eu-13/
+14,11,2013,-,14,11,2013,Denog 5, ,Darmstadt,Deutschland,http://www.denog.de/meetings/denog5/?lang=de
+14,11,2015,-,14,11,2015,Slayer ,MHP Arena,Ludwigsburg,Deutschland,
+14,12,2015,-,13,12,2015,Judas Priesthttp://www.schleyerhalle.de/,Schleyer Halle,Stuttgart,Deutschland,
+14,2,2014,-,14,2,2014,Nullcon, , , ,http://nullcon.net/website/
+14,2,2015,-,14,2,2015,Valentinstag , , , ,
+14,2,2015,-,14,2,2015,Valentinstag, , , , 
+14,2,2016,-,14,2,2016,Valentinstag, , , , 
+14,2,2017,-,14,2,2017,Valentinstag , , , ,
+14,2,2017,-,14,2,2017,Valentinstag, , , , 
+14,2,2018,-,14,2,2018,Valentinstag , , , ,
+14,2,2018,-,14,2,2018,Valentinstag, , , , 
+14,2,2019,-,14,2,2019,Valentinstag , , , ,
+14,2,2019,-,14,2,2019,Valentinstag, , , , 
+14,2,2020,-,14,2,2020,Valentinstag , , , ,
+14,2,2020,-,14,2,2020,Valentinstag, , , , 
+14,3,2013,-,15,3,2013,env hack, ,Bristol, ,http://envhack.com/en/posts/
+14,3,2013,-,15,3,2013,env hackhttp://envhack.com/, ,Bristol, ,
+14,3,2013,15,3,2013,env hack, ,Bristol, ,http://envhack.com/
+14,6,2014,-,15,6,2014,Backbone 409http://backbone409.calafou.org/, ,Barcelona,Spanien,
+14,6,2014,15,6,2014,Backbone 409, ,Barcelona,Spanien,http://backbone409.calafou.org/
+14,7,2012,-,14,7,2012,Barcamp Karlsruhe, ,Karlsruhe,Deutschland,http://www.barcamp-karlsruhe.de/
+15,11,2013,-,15,11,2013,South Tyrol Free Software Conference, , , ,https://2012.sfscon.it/de/home
+15,11,2014,-,16,11,2014,Barcamp Karlsruhehttp://www.barcamp-karlsruhe.de/, ,Karlsruhe,Deutschland,
+15,11,2014,-,16,11,2014,Kulinarthttp://www.kulinart-messe.de/,Phoenixhalle,Stuttgart,Deutschland,
+15,11,2014,16,11,2014,Barcamp Karlsruhe, ,Karlsruhe,Deutschland,http://www.barcamp-karlsruhe.de/
+15,11,2014,16,11,2014,Kulinart,Phoenixhalle,Stuttgart,Deutschland,http://www.kulinart-messe.de/
+15,3,2014,-,15,3,2014,WERTHER,MET im Kino, , ,http://metimkino.de
+15,3,2014,-,16,3,2014,Chemnitzer Linuxtage,Deutschland,Chemnitz, ,http://chemnitzer.linux-tage.de/
+15,7,2014,-,20,7,2014,Sommerfestival der Kulturenhttp://www.forum-der-kulturen.de/, ,Stuttgart,Deutschland,
+15,7,2014,20,7,2014,Sommerfestival der Kulturen, ,Stuttgart,Deutschland,http://www.forum-der-kulturen.de/
+15,8,2014,-,17,8,2014,Interferencehttps://interference.io/, ,Amsterdam,Niederlande,
+15,8,2014,-,17,8,2014,Rock n Heim,Hockenheimring,Hockenheim,Deutschland,http://www.rock-n-heim.com/
+15,8,2014,-,17,8,2014,Rock n Heimhttp://www.rock-n-heim.com/,Hockenheimring,Hockenheim,Deutschland,
+15,8,2014,17,8,2014,Interference, ,Amsterdam,Niederlande,https://interference.io/
+15,8,2014,17,8,2014,Rock n Heim,Hockenheimring,Hockenheim,Deutschland,http://www.rock-n-heim.com/
+15,9,2012,-,16,9,2012,OSHUG Camp, ,London,UK,http://oshug.org/event/oshcamp2012.html
+16,3,2015,-,20,3,2015,Troopershttps://www.troopers.de/, ,Heidelberg,Deutschland,
+16,3,2015,20,3,2015,Troopers, ,Heidelberg,Deutschland,https://www.troopers.de/
+16,5,2015,-,16,5,2015,Open Source System Management Conferencehttp://www.wuerth-phoenix.com/, ,Bozen,Italien,
+16,5,2015,16,5,2015,Open Source System Management Conference, ,Bozen,Italien,http://www.wuerth-phoenix.com/
+16,6,2014,-,17,6,2014,DFN-Forum Kommunikationstechnologienhttp://dfn2014.hs-fulda.de/, ,Fulda,Deutschland,
+16,6,2014,17,6,2014,DFN-Forum Kommunikationstechnologien, ,Fulda,Deutschland,http://dfn2014.hs-fulda.de/
+16,7,2014,-,19,7,2014,Gaffenbergfestival, ,Heilbronn,Deutschland,http://www.gaffenbergfestival.de/
+16,7,2014,-,19,7,2014,Gaffenbergfestivalhttp://www.gaffenbergfestival.de/, ,Heilbronn,Deutschland,
+16,7,2014,19,7,2014,Gaffenbergfestival, ,Heilbronn,Deutschland,http://www.gaffenbergfestival.de/
+16,8,2014,-,16,8,2014,OSHUG Camphttp://oshug.org/event/oshcamp2014, ,London,UK,
+16,8,2014,-,18,8,2014,Parkfesthttp://www.nordheim.de/website/de/gemeinde/tourismus/nordheimer_parkfest, ,Nordheim,Deutschland,
+16,8,2014,16,8,2014,OSHUG Camp, ,London,UK,http://oshug.org/event/oshcamp2014
+16,8,2014,18,8,2014,Parkfest, ,Nordheim,Deutschland,http://www.nordheim.de/website/de/gemeinde/tourismus/nordheimer_parkfest
+17,10,2014,-,19,10,2014,Ubucon 2014, ,Katlenburg, ,http://ubucon.de/2013/
+17,10,2014,-,19,10,2014,Ubucon 2014http://ubucon.de/2013/, ,Katlenburg, ,
+17,10,2014,19,10,2014,Ubucon 2014, ,Katlenburg, ,http://ubucon.de/2013/
+17,11,2015,-,17,11,2015,Emil Bullshttp://www.club-cann.de/,Club Cann,Stuttgart,Deutschland,
+17,11,2015,-,17,11,2015,Lamb of God ,LKA,Stuttgart,Deutschland,
+17,3,2014,-,21,3,2014,Troopers, ,Heidelberg,Deutschland,https://www.troopers.de/
+17,5,2014,-,17,5,2014,Matrix live,Liederhalle,Stuttgart,Deutschland,http://www.stuttgartkonzert.de/veranstaltungen/MATRIX_live-612.html
+17,6,2014,-,21,6,2014,Seefesthttp://www.seefest-heilbronn.de/,Laube,Heilbronn,Deutschland,
+17,6,2014,21,6,2014,Seefest,Laube,Heilbronn,Deutschland,http://www.seefest-heilbronn.de/
+17,8,2013,-,19,8,2013,Parkfest Nordheim, ,Nordheim,Deutschland,http://www.nordheim.de/website/de/gemeinde/tourismus/nordheimer_parkfest
+17,9,2012,-,19,9,2012,CPUG Conference, , , ,http://www.cpugcon.com/
+17,9,2012,-,19,9,2012,CPUG Conferencehttp://www.cpugcon.com/, , , ,
+17,9,2012,19,9,2012,CPUG Conference, , , ,http://www.cpugcon.com/
+18,11,2014,-,20,11,2014,OSMC Nürnberg, ,Nürnberg,Deutschland,http://www.netways.de/osmc/
+18,11,2014,-,20,11,2014,OSMC Nürnberghttp://www.netways.de/osmc/, ,Nürnberg,Deutschland,
+18,11,2014,-,21,11,2014,DeepSechttps://deepsec.net, ,Wien,Österreich,
+18,11,2014,20,11,2014,OSMC Nürnberg, ,Nürnberg,Deutschland,http://www.netways.de/osmc/
+18,11,2014,21,11,2014,DeepSec, ,Wien,Österreich,https://deepsec.net
+18,4,2014,-,20,4,2014,Not so secure CTFhttp://ctf.notsosecure.com/,Online, , ,
+18,4,2014,-,21,4,2014,Easterhegg, ,Stuttgart,Deutschland,http://www.easterhegg.eu
+18,4,2014,20,4,2014,Not so secure CTF,Online, , ,http://ctf.notsosecure.com/
+18,4,2015,-,10,5,2015,Stuttgarter Frühlingsfesthttp://www.stuttgarter-fruehlingsfest.de/,Wasen,Stuttgart,Deutschland,
+18,4,2015,10,5,2015,Stuttgarter Frühlingsfest,Wasen,Stuttgart,Deutschland,http://www.stuttgarter-fruehlingsfest.de/
+18,6,2011,-,18,6,2011,Ninjacon, , , ,http://ninjacon.net/
+18,6,2011,-,18,6,2011,Ninjaconhttp://ninjacon.net/,The Hub,Wien,Österreich,
+18,6,2011,18,6,2011,Ninjacon,The Hub,Wien,Österreich,http://ninjacon.net/
+18,7,2014,-,18,7,2014,Hope Konferenz, , , ,http://x.hope.net/
+18,7,2014,-,18,7,2014,Hope Konferenzhttp://x.hope.net/, , , ,
+18,7,2014,18,7,2014,Hope Konferenz, , , ,http://x.hope.net/
+18,8,2012,-,20,8,2012,Erlenbacher Weinfest, ,Erlenbach,Deutschland,http://www.erlenbach-hn.de
+19,11,2013,-,22,11,2013,DeepSec, ,Wien,Österreich,https://deepsec.net
+19,11,2015,-,19,11,2015,Project Pitchfork ,Universum,Stuttgart,Deutschland,
+19,3,2014,-,21,3,2014,FOSSGIS, ,Berlin,Deutschland,https://www.fossgis.de/konferenz/2014/
+19,3,2014,-,21,3,2014,FOSSGIShttps://www.fossgis.de/, ,Berlin,Deutschland,
+19,3,2014,21,3,2014,FOSSGIS, ,Berlin,Deutschland,https://www.fossgis.de/
+19,4,2014,-,11,5,2014,Stuttgarter Frühlingsfest,Deutschland,Stuttgart, ,http://www.stuttgarter-fruehlingsfest.de/
+19,5,2014,-,19,5,2014,Open Discussion Day, , , ,http://opendiscussionday.org/
+19,5,2014,-,19,5,2014,Open Discussion Dayhttp://opendiscussionday.org/, , , ,
+19,5,2014,19,5,2014,Open Discussion Day, , , ,http://opendiscussionday.org/
+19,6,2014,-,22,6,2014,GPN, ,Karlsruhe,Deutschland,https://entropia.de/GPN
+19,6,2014,-,22,6,2014,GPNhttps://entropia.de/GPN, ,Karlsruhe,Deutschland,
+19,6,2014,22,6,2014,GPN, ,Karlsruhe,Deutschland,https://entropia.de/GPN
+19,6,2015,-,21,6,2015,Southsidehttp://www.southside.de/,Take-Off Park,Tuttlingen,Deutschland,
+19,6,2015,21,6,2015,Southside,Take-Off Park,Tuttlingen,Deutschland,http://www.southside.de/
+19,7,2014,-,20,7,2014,Nation of Gondwana, , , ,http://pyonen.de/
+19,7,2014,-,20,7,2014,Nation of Gondwanahttp://pyonen.de/, , , ,
+19,7,2014,20,7,2014,Nation of Gondwana, , , ,http://pyonen.de/
+19,9,2013,-,20,9,2013,Monitorama, ,Berlin,Deutschland,http://monitorama.eu/
+19,9,2013,-,20,9,2013,Monitoramahttp://monitorama.eu/, ,Berlin,Deutschland,
+19,9,2013,20,9,2013,Monitorama, ,Berlin,Deutschland,http://monitorama.eu/
+2,10,2013,-,4,10,2013,International Summit for Community Wireless Networks, ,Berlin,Deutschland,http://2013.wirelesssummit.org/
+2,10,2013,-,4,10,2013,International Summit for Community Wireless Networkshttp://2013.wirelesssummit.org/, ,Berlin,Deutschland,
+2,10,2013,4,10,2013,International Summit for Community Wireless Networks, ,Berlin,Deutschland,http://2013.wirelesssummit.org/
+2,12,2013,-,2,12,2013,Passwords, , , ,http://passwordscon.org/
+2,12,2014,-,7,12,2014,chocolART Schokoladenfestival, ,Tübingen,Deutschland,http://www.chocolart.de/
+2,6,2014,-,3,6,2014,Area 41, , ,Schweiz,http://area41.io/
+2,6,2014,-,3,6,2014,Area 41http://area41.io/, , ,Schweiz,
+2,6,2014,3,6,2014,Area 41, , ,Schweiz,http://area41.io/
+2,9,2012,-,3,9,2012,Ganzhornfest Neckarsulm, ,Neckarsulm,Deutschland,http://www.neckarsulm.de/main/freizeit-tourismus/veranstaltungen.html
+2,9,2012,-,3,9,2012,Ganzhornfest Neckarsulmhttp://www.neckarsulm.de/main/freizeit-tourismus/veranstaltungen.html, ,Neckarsulm,Deutschland,
+2,9,2012,3,9,2012,Ganzhornfest Neckarsulm, ,Neckarsulm,Deutschland,http://www.neckarsulm.de/main/freizeit-tourismus/veranstaltungen.html
+20,10,2015,-,20,10,2015,Apocalyptica ,FILharmonie,Filderstadt,Deutschland,
+20,11,2014,-,20,11,2014,Denog 6http://www.denog.de/meetings/denog5/?lang=de, ,Darmstadt,Deutschland,
+20,11,2014,-,20,11,2014,IRISSCERT Cyber Crime Conferencehttps://www.iriss.ie/iriss/irisscon.htm, ,Dublin, ,
+20,11,2014,-,23,11,2014,Hobby Elektronikhttp://www.messe-stuttgart.de/hobby/,Messe,Stuttgart,Deutschland,
+20,11,2014,20,11,2014,Denog 6, ,Darmstadt,Deutschland,http://www.denog.de/meetings/denog5/?lang=de
+20,11,2014,20,11,2014,IRISSCERT Cyber Crime Conference, ,Dublin, ,https://www.iriss.ie/iriss/irisscon.htm
+20,11,2014,23,11,2014,Hobby Elektronik,Messe,Stuttgart,Deutschland,http://www.messe-stuttgart.de/hobby/
+20,2,2012,-,20,2,2012,Fasching Ballei, ,Neckarsulm,Deutschland,http://www.neckarsulm.de/main/freizeit-tourismus/veranstaltungen.html
+20,2,2012,-,20,2,2012,Fasching Balleihttp://www.neckarsulm.de/main/freizeit-tourismus/veranstaltungen.html,Ballei,Neckarsulm,Deutschland,
+20,2,2012,20,2,2012,Fasching Ballei,Ballei,Neckarsulm,Deutschland,http://www.neckarsulm.de/main/freizeit-tourismus/veranstaltungen.html
+20,3,2014,-,20,3,2014,SchnitzelS, ,Stuttgart,Deutschland,http://schnitzels.mixxt.de/
+20,6,2013,-,22,6,2013,Strombike, , ,Deutschland,http://www.strombike.de/
+20,6,2014,-,22,6,2014,Southside, ,Tuttlingen,Deutschland,http://www.southside.de/
+20,7,2014,-,20,7,2014,Aspen-Mountainbike-Marathon, , ,Deutschland,http://www.hardtwaldracers.de
+20,7,2014,-,20,7,2014,Aspen-Mountainbike-Marathonhttp://www.hardtwaldracers.de, , ,Deutschland,
+20,7,2014,20,7,2014,Aspen-Mountainbike-Marathon, , ,Deutschland,http://www.hardtwaldracers.de
+20,9,2014,-,21,9,2014,Barcamp Stuttgart, ,Stuttgart,Deutschland,http://www.barcamp-stuttgart.de/
+20,9,2014,-,21,9,2014,Barcamp Stuttgarthttp://www.barcamp-stuttgart.de/, ,Stuttgart,Deutschland,
+20,9,2014,21,9,2014,Barcamp Stuttgart, ,Stuttgart,Deutschland,http://www.barcamp-stuttgart.de/
+21,1,2012,-,21,1,2012,Barcamp München, ,München,Deutschland,http://barcampmunich.mixxt.de/
+21,1,2012,-,21,1,2012,Barcamp Münchenhttp://barcampmunich.mixxt.de/, ,München,Deutschland,
+21,1,2012,21,1,2012,Barcamp München, ,München,Deutschland,http://barcampmunich.mixxt.de/
+21,11,2013,-,21,11,2013,IRISSCERT Cyber Crime Conference, ,Dublin, ,https://www.iriss.ie/iriss/irisscon.htm
+21,3,2013,-,23,3,2013,Unlike Us #3, ,Amsterdam, ,http://networkcultures.org/wpmu/unlikeus/
+21,3,2013,-,23,3,2013,Unlike Us #3http://networkcultures.org/wpmu/unlikeus/, ,Amsterdam,Niederlande,
+21,3,2013,23,3,2013,Unlike Us #3, ,Amsterdam,Niederlande,http://networkcultures.org/wpmu/unlikeus/
+21,3,2015,-,22,3,2015,Chemnitzer Linuxtagehttp://chemnitzer.linux-tage.de/, ,Chemnitz,Deutschland,
+21,3,2015,22,3,2015,Chemnitzer Linuxtage, ,Chemnitz,Deutschland,http://chemnitzer.linux-tage.de/
+21,4,2015,-,23,4,2015,Open Source Data Center Conferencehttp://www.netways.de/osdc/overview/overview/,Hotel MOA,Berlin,Deutschland,
+21,4,2015,23,4,2015,Open Source Data Center Conference,Hotel MOA,Berlin,Deutschland,http://www.netways.de/osdc/overview/overview/
+21,8,2014,-,24,8,2014,Camp ++http://camp.hsbp.org/2014/pp/,Fort Monostor,Komarom,Ungarn,
+21,8,2014,24,8,2014,Camp ++,Fort Monostor,Komarom,Ungarn,http://camp.hsbp.org/2014/pp/
+21,9,2014,-,21,9,2014,Badenmarathon, ,Karlsruhe,Deutschland,http://www.badenmarathon.de
+21,9,2014,-,21,9,2014,Badenmarathonhttp://www.badenmarathon.de, ,Karlsruhe,Deutschland,
+21,9,2014,21,9,2014,Badenmarathon, ,Karlsruhe,Deutschland,http://www.badenmarathon.de
+22,11,2013,-,24,11,2013,Startup Weekend Stuttgart, ,Stuttgart,Deutschland,http://stuttgart.startupweekend.org/
+22,11,2013,-,24,11,2013,Startup Weekend Stuttgarthttp://stuttgart.startupweekend.org/, ,Stuttgart,Deutschland,
+22,11,2013,24,11,2013,Startup Weekend Stuttgart, ,Stuttgart,Deutschland,http://stuttgart.startupweekend.org/
+22,2,2016,-,22,2,2016,Machine Head ,LKA,Stuttgart,Deutschland,
+22,3,2014,-,23,3,2014,Kulinart, ,Stuttgart,Deutschland,http://www.kulinart-messe.de/
+22,5,2014,-,23,5,2014,IPv6 Kongress, ,Frankfurt am Main,Deutschland,http://www.ipv6-kongress.de/events/ipv6-kongress/
+22,5,2014,-,23,5,2014,IPv6 Kongresshttp://www.ipv6-kongress.de/events/ipv6-kongress/, ,Frankfurt am Main,Deutschland,
+22,5,2014,23,5,2014,IPv6 Kongress, ,Frankfurt am Main,Deutschland,http://www.ipv6-kongress.de/events/ipv6-kongress/
+22,6,2012,-,29,6,2012,Open Community Camphttp://opencommunitycamp.org/site/, ,Oegstgeest,Niederlande,
+22,6,2012,-,29,6,9012,Open Community Camp, , ,NL,http://opencommunitycamp.org/site/
+22,6,2012,29,6,2012,Open Community Camp, ,Oegstgeest,Niederlande,http://opencommunitycamp.org/site/
+22,8,2014,-,25,8,2014,Erlenbacher Weinfesthttp://www.erlenbach-hn.de, ,Erlenbach,Deutschland,
+22,8,2014,-,25,8,2014,Schäferlauf Markgröningenhttp://www.markgroeningen.de, ,Markgröningen,Deutschland,
+22,8,2014,25,8,2014,Erlenbacher Weinfest, ,Erlenbach,Deutschland,http://www.erlenbach-hn.de
+22,8,2014,25,8,2014,Schäferlauf Markgröningen, ,Markgröningen,Deutschland,http://www.markgroeningen.de
+22,9,2014,-,23,9,2014,Open Source Backup Conference 2014http://osbconf.org/,NH Hotel Cologne Mediapark,Köln,Deutschland,
+22,9,2014,23,9,2014,Open Source Backup Conference 2014,NH Hotel Cologne Mediapark,Köln,Deutschland,http://osbconf.org/
+23,11,2013,-,24,11,2013,push.conference, ,München, ,http://push-conference.com/2012/about.php
+23,3,2013,-,23,3,2013,Linuxinfotage Augsburg, ,Augsburg,Deutschland,http://www.luga.de/
+23,3,2013,-,23,3,2013,Linuxinfotage Augsburghttp://www.luga.de/, ,Augsburg,Deutschland,
+23,3,2013,23,3,2013,Linuxinfotage Augsburg, ,Augsburg,Deutschland,http://www.luga.de/
+23,8,2013,-,25,8,2013,openmind #13, , ,Deutschland,http://13.openmind-konferenz.de/
+23,8,2014,-,23,8,2014,Echelon, , ,Deutschland,http://www.echelon-openair.de
+23,8,2014,-,23,8,2014,Echelonhttp://www.echelon-openair.de, , ,Deutschland,
+23,8,2014,-,24,8,2014,Frosconhttp://www.froscon.de,Hochschule Bonn-Rhein-Sieg,Sankt Augustin,Deutschland,
+23,8,2014,-,31,8,2014,DebConf14http://wiki.debconf.org/wiki/DebConf14, ,Portland,USA,
+23,8,2014,23,8,2014,Echelon, , ,Deutschland,http://www.echelon-openair.de
+23,8,2014,24,8,2014,Froscon,Hochschule Bonn-Rhein-Sieg,Sankt Augustin,Deutschland,http://www.froscon.de
+23,8,2014,31,8,2014,DebConf14, ,Portland,USA,http://wiki.debconf.org/wiki/DebConf14
+23,9,2014,-,24,9,2014,Puppetconf, , , ,http://puppetconf.com/
+23,9,2014,-,24,9,2014,Puppetconfhttp://puppetconf.com/, , , ,
+23,9,2014,-,26,9,2014,Frühjahrsfachgesprächhttp://www.guug.de/veranstaltungen/ffg2014/cfp.html,Ruhr Uni,Bochum,Deutschland,
+23,9,2014,24,9,2014,Puppetconf, , , ,http://puppetconf.com/
+23,9,2014,26,9,2014,Frühjahrsfachgespräch,Ruhr Uni,Bochum,Deutschland,http://www.guug.de/veranstaltungen/ffg2014/cfp.html
+24,10,2014,-,26,10,2014,hackover, , ,Deutschland,http://hackover.de/
+24,10,2014,-,26,10,2014,hackoverhttp://hackover.de/, , ,Deutschland,
+24,10,2014,26,10,2014,hackover, , ,Deutschland,http://hackover.de/
+24,11,2012,-,25,11,2012,Barcamp Braunschweig, ,Braunschweig,Deutschland,http://www.barcamp-braunschweig.de/
+24,11,2012,-,25,11,2012,Barcamp Braunschweighttp://www.barcamp-braunschweig.de/, ,Braunschweig,Deutschland,
+24,11,2012,25,11,2012,Barcamp Braunschweig, ,Braunschweig,Deutschland,http://www.barcamp-braunschweig.de/
+24,5,2013,-,25,5,2013,Barcamp Rootcamp, , ,Deutschland,http://rootcamp.mixxt.de/
+24,5,2013,-,25,5,2013,Barcamp Rootcamphttp://rootcamp.mixxt.de/, , ,Deutschland,
+24,5,2013,25,5,2013,Barcamp Rootcamp, , ,Deutschland,http://rootcamp.mixxt.de/
+24,6,2015,-,28,6,2014,Glastonburyhttp://www.glastonburyfestivals.co.uk/, , , ,
+24,6,2015,28,6,2014,Glastonbury, , , ,http://www.glastonburyfestivals.co.uk/
+24,7,2015,-,26,7,2015,Das Festhttp://www.dasfest.net/, ,Karlsruhe,Deutschland,
+24,7,2015,26,7,2015,Das Fest, ,Karlsruhe,Deutschland,http://www.dasfest.net/
+24,8,2012,-,27,8,2012,Schäferlauf Markgröningen, ,Markgröningen,Deutschland,http://www.markgroeningen.de
+24,8,2013,-,25,8,2013,Froscon, , ,Deutschland,http://www.froscon.de
+25,10,2013,-,27,10,2013,Not so secure CTF, , , ,http://ctf.notsosecure.com/
+25,10,2015,-,25,10,2015,Zeitumstellung auf Winterzeit  , , , ,
+25,10,2015,-,25,10,2015,Zeitumstellung auf Winterzeit, , , , 
+25,10,2020,-,25,10,2020,Zeitumstellung auf Winterzeit , , , ,
+25,10,2020,-,25,10,2020,Zeitumstellung auf Winterzeit, , , , 
+25,10,2020,25,10,2020,Zeitumstellung auf Winterzeit, , , , 
+25,11,2014,-,21,12,2014,Esslingen Weihnachtsmarkthttp://tourist.esslingen.de/, ,Esslingen,Deutschland,
+25,11,2014,-,22,12,2014,Weihnachtsmarkt LBhttp://www.ludwigsburg.de/,Lde/start/tourismus/weihnachtsmarkt.html,Ludwigsburg,Deutschland,
+25,11,2014,21,12,2014,Esslingen Weihnachtsmarkt, ,Esslingen,Deutschland,http://tourist.esslingen.de/
+25,11,2014,22,12,2014,Weihnachtsmarkt LB,Ludwigsburg,Deutschland,http://www.ludwigsburg.de/,Lde/start/tourismus/weihnachtsmarkt.html
+25,11,2015,-,25,11,2015,Motörhead ,MHP Arena,Ludwigsburg,Deutschland,
+25,3,2018,-,25,3,2018,Zeitumstellung auf Sommerzeit , , , ,
+25,3,2018,-,25,3,2018,Zeitumstellung auf Sommerzeit, , , , 
+25,3,2018,25,3,2018,Zeitumstellung auf Sommerzeit, , , , 
+25,5,2014,-,25,5,2014,Bezirksbeiräte, , , , 
+25,5,2014,-,25,5,2014,Europawahl, , , , 
+25,5,2014,-,25,5,2014,Gemeinderäte, , , , 
+25,5,2014,-,25,5,2014,Kreistage, , , , 
+25,5,2014,-,25,5,2014,Ortschaftsräte, , , , 
+25,5,2014,-,25,5,2014,Regionalversammlung , ,Stuttgart, , 
+25,6,2014,-,29,6,2014,Glastonbury, , , ,http://www.glastonburyfestivals.co.uk/
+25,7,2014,-,27,7,2014,Das Fest, ,Karlsruhe,Deutschland,http://www.dasfest.net/
+25,8,2014,-,1,9,2014,Burning Man, , ,USA,http://www.burningman.com/
+25,8,2014,-,1,9,2014,Burning Manhttp://www.burningman.com/, , ,USA,
+25,8,2014,1,9,2014,Burning Man, , ,USA,http://www.burningman.com/
+25,9,2014,-,26,9,2014,Kommunikations Kongress, , , ,http://www.kommunikationskongress.de/
+25,9,2014,-,26,9,2014,Kommunikations Kongresshttp://www.kommunikationskongress.de/, , , ,
+25,9,2014,26,9,2014,Kommunikations Kongress, , , ,http://www.kommunikationskongress.de/
+26,10,2013,-,27,10,2013,Trollcon, , ,Deutschland,https://raumzeitlabor.de/wiki/Trollcon/2013
+26,10,2014,-,26,10,2014,Zeitumstellung auf Winterzeit, , , , 
+26,2,2013,-,26,2,2013,Frühjahrsfachgespräch, , ,Deutschland,http://www.guug.de/veranstaltungen/ffg2014/
+26,3,2014,-,28,3,2014,Deutscher Perl-Workshop 2014, ,Hannover,Deutschland,http://act.yapc.eu/gpw2014/
+26,3,2017,-,26,3,2017,Zeitumstellung auf Sommerzeit , , , ,
+26,3,2017,-,26,3,2017,Zeitumstellung auf Sommerzeit, , , , 
+26,3,2017,26,3,2017,Zeitumstellung auf Sommerzeit, , , , 
+26,4,2014,-,26,4,2014,COSÌ FAN TUTTE,MET im Kino, , ,http://metimkino.de
+26,4,2014,-,27,4,2014,Barcamp Nürnberg, ,Nürnberg,Deutschland,http://www.bcnue.de/
+26,4,2014,-,27,4,2014,Barcamp Nürnberghttp://www.bcnue.de/, ,Nürnberg,Deutschland,
+26,4,2014,27,4,2014,Barcamp Nürnberg, ,Nürnberg,Deutschland,http://www.bcnue.de/
+26,6,2014,-,29,6,2014,Fusion Festival, , ,Deutschland,http://www.fusion-festival.de/
+26,6,2014,-,29,6,2014,Fusion Festivalhttp://www.fusion-festival.de/, , ,Deutschland,
+26,6,2014,29,6,2014,Fusion Festival, , ,Deutschland,http://www.fusion-festival.de/
+26,6,2015,-,28,6,2015,HAM RADIOhttp://www.hamradio-friedrichshafen.de/,Messe,Friedrichshafen,Deutschland,
+26,6,2015,28,6,2015,HAM RADIO,Messe,Friedrichshafen,Deutschland,http://www.hamradio-friedrichshafen.de/
+26,7,2012,-,29,6,2012,Haxogreen, , ,Luxemburg,http://www.haxogreen.lu/
+26,9,2014,-,12,10,2014,Cannstatter Volksfesthttp://www.cannstatter-volksfest.de/,Wasen,Stuttgart,Deutschland,
+26,9,2014,-,28,9,2014,openmind #14http://14.openmind-konferenz.de/, , ,Deutschland,
+26,9,2014,12,10,2014,Cannstatter Volksfest,Wasen,Stuttgart,Deutschland,http://www.cannstatter-volksfest.de/
+26,9,2014,28,9,2014,openmind #14, , ,Deutschland,http://14.openmind-konferenz.de/
+27,10,2019,-,27,10,2019,Zeitumstellung auf Winterzeit , , , ,
+27,10,2019,-,27,10,2019,Zeitumstellung auf Winterzeit, , , , 
+27,10,2019,27,10,2019,Zeitumstellung auf Winterzeit, , , , 
+27,11,2012,-,27,11,2012,Esslingen Weihnachtsmarkt, ,Esslingen,Deutschland,http://tourist.esslingen.de/
+27,12,2014,-,30,12,2014,31C3,CCH,Hamburg,Deutschland,http://events.ccc.de
+27,12,2014,-,30,12,2014,31C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2014,30,12,2014,31C3,CCH,Hamburg,Deutschland,http://events.ccc.de
+27,12,2015,-,30,12,2015,32C3,CCH,Hamburg,Deutschland,http://events.ccc.de
+27,12,2015,-,30,12,2015,32C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2015,30,12,2015,32C3,CCH,Hamburg,Deutschland,http://events.ccc.de
+27,12,2016,-,30,12,2016,33C3,CCH,Hamburg,Deutschland,http://events.ccc.de
+27,12,2016,-,30,12,2016,33C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2016,30,12,2016,33C3,CCH,Hamburg,Deutschland,http://events.ccc.de
+27,12,2017,-,30,12,2017,34C3,CCH,Hamburg,Deutschland,http://events.ccc.de
+27,12,2017,-,30,12,2017,34C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2017,30,12,2017,34C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2018,-,30,12,2018,35C3,CCH,Hamburg,Deutschland,http://events.ccc.de
+27,12,2018,-,30,12,2018,35C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2018,30,12,2018,35C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2019,-,30,12,2019,36C3,CCH,Hamburg,Deutschland,http://events.ccc.de
+27,12,2019,-,30,12,2019,36C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2019,30,12,2019,36C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2020,-,30,12,2020,37C3,CCH,Hamburg,Deutschland,http://events.ccc.de
+27,12,2020,-,30,12,2020,37C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2020,30,12,2020,37C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2021,-,30,12,2021,38C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2021,30,12,2021,38C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2022,-,30,12,2022,39C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2022,30,12,2022,39C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2023,-,30,12,2023,40C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2023,30,12,2023,40C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2024,-,30,12,2024,41C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2024,30,12,2024,41C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2025,-,30,12,2025,42C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2025,30,12,2025,42C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2026,-,30,12,2026,43C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2026,30,12,2026,43C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2027,-,30,12,2027,44C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2027,30,12,2027,44C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2028,-,30,12,2028,45C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2028,30,12,2028,45C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2029,-,30,12,2029,46C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2029,30,12,2029,46C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2030,-,30,12,2030,47C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2030,30,12,2030,47C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2031,-,30,12,2031,48C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2031,30,12,2031,48C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2032,-,30,12,2032,49C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2032,30,12,2032,49C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2033,-,30,12,2033,50C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2033,30,12,2033,50C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2034,-,30,12,2034,51C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2034,30,12,2034,51C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2035,-,30,12,2035,52C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2035,30,12,2035,52C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2036,-,30,12,2036,53C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2036,30,12,2036,53C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2037,-,30,12,2037,54C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2037,30,12,2037,54C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2038,-,30,12,2038,55C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2038,30,12,2038,55C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2039,-,30,12,2039,56C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2039,30,12,2039,56C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2040,-,30,12,2040,57C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2040,30,12,2040,57C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2041,-,30,12,2041,58C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2041,30,12,2041,58C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2042,-,30,12,2042,59C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2042,30,12,2042,59C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2043,-,30,12,2043,60C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2043,30,12,2043,60C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2044,-,30,12,2044,61C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2044,30,12,2044,61C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2045,-,30,12,2045,62C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2045,30,12,2045,62C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2046,-,30,12,2046,63C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2046,30,12,2046,63C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2047,-,30,12,2047,64C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2047,30,12,2047,64C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2048,-,30,12,2048,65C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2048,30,12,2048,65C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2049,-,30,12,2049,66C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2049,30,12,2049,66C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2050,-,30,12,2050,67C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2050,30,12,2050,67C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2051,-,30,12,2051,68C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2051,30,12,2051,68C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2052,-,30,12,2052,69C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2052,30,12,2052,69C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2053,-,30,12,2053,70C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2053,30,12,2053,70C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2054,-,30,12,2054,71C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2054,30,12,2054,71C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2055,-,30,12,2055,72C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2055,30,12,2055,72C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2056,-,30,12,2056,73C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2056,30,12,2056,73C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2057,-,30,12,2057,74C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2057,30,12,2057,74C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2058,-,30,12,2058,75C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2058,30,12,2058,75C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2059,-,30,12,2059,76C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2059,30,12,2059,76C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2060,-,30,12,2060,77C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2060,30,12,2060,77C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2061,-,30,12,2061,78C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2061,30,12,2061,78C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2062,-,30,12,2062,79C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2062,30,12,2062,79C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2063,-,30,12,2063,80C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2063,30,12,2063,80C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2064,-,30,12,2064,81C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2064,30,12,2064,81C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2065,-,30,12,2065,82C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2065,30,12,2065,82C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2066,-,30,12,2066,83C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2066,30,12,2066,83C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2067,-,30,12,2067,84C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2067,30,12,2067,84C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2068,-,30,12,2068,85C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2068,30,12,2068,85C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2069,-,30,12,2069,86C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2069,30,12,2069,86C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2070,-,30,12,2070,87C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2070,30,12,2070,87C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2071,-,30,12,2071,88C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2071,30,12,2071,88C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2072,-,30,12,2072,89C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2072,30,12,2072,89C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2073,-,30,12,2073,90C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2073,30,12,2073,90C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2074,-,30,12,2074,91C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2074,30,12,2074,91C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,12,2075,-,30,12,2075,92C3http://events.ccc.de,CCH,Hamburg,Deutschland,
+27,12,2075,30,12,2075,92C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+27,2,2014,-,27,2,2014,Trustycon, , , ,https://trustycon.org/
+27,2,2014,-,27,2,2014,Trustyconhttps://trustycon.org/, , , ,
+27,2,2014,27,2,2014,Trustycon, , , ,https://trustycon.org/
+27,2,2016,-,27,2,2016,Scooterhttp://www.schleyerhalle.de/,Porsche Arena,Stuttgart,Deutschland,
+27,3,2016,-,27,3,2016,Zeitumstellung auf Sommerzeit , , , ,
+27,3,2016,-,27,3,2016,Zeitumstellung auf Sommerzeit, , , , 
+27,5,2013,-,28,5,2013,Devops Days Berlin, ,Berlin,Deutschland,http://devopsdays.org/events/2013-berlin/
+27,6,2014,-,29,6,2014,RockAFieldhttp://www.rockafield.lu/, ,Luxemburg,Luxemburg,
+27,6,2014,29,6,2014,RockAField, ,Luxemburg,Luxemburg,http://www.rockafield.lu/
+27,9,2013,-,13,10,2013,Cannstatter Wasen, ,Stuttgart,Deutschland,http://www.cannstatter-volksfest.de/
+28,10,2018,-,28,10,2018,Zeitumstellung auf Winterzeit , , , ,
+28,10,2018,-,28,10,2018,Zeitumstellung auf Winterzeit, , , , 
+28,10,2018,28,10,2018,Zeitumstellung auf Winterzeit, , , , 
+28,11,2015,-,28,11,2015,Deep Purplehttp://www.schleyerhalle.de/,Schleyer Halle,Stuttgart,Deutschland,
+28,3,2014,-,30,3,2014,Barcamp Heilbronn,Hochschule,Heilbronn,Deutschland,http://barcamp-heilbronn.mixxt.de/
+28,3,2014,-,30,3,2014,Barcamp Heilbronnhttp://barcamp-heilbronn.mixxt.de/,Hochschule,Heilbronn,Deutschland,
+28,3,2014,-,30,3,2014,devops-camp, ,Nürnberg,Deutschland,http://www.devops-camp.de/
+28,3,2014,30,3,2014,Barcamp Heilbronn,Hochschule,Heilbronn,Deutschland,http://barcamp-heilbronn.mixxt.de/
+28,5,2013,-,1,6,2013,Laube Seefest, ,Heilbronn,Deutschland,http://www.gartenlaube.com/seefest.html
+28,6,2014,-,6,7,2014,Roskilde, , ,Dänemark,http://roskilde-festival.dk/
+28,6,2014,-,6,7,2014,Roskildehttp://roskilde-festival.dk/, , ,Dänemark,
+28,6,2014,6,7,2014,Roskilde, , ,Dänemark,http://roskilde-festival.dk/
+28,8,2013,-,4,9,2013,Fantasy Filmfest Stuttgart, ,Stuttgart,Deutschland,http://www.fantasyfilmfest.com/
+29,10,2017,-,29,10,2017,Zeitumstellung auf Winterzeit , , , ,
+29,10,2017,-,29,10,2017,Zeitumstellung auf Winterzeit, , , , 
+29,10,2017,29,10,2017,Zeitumstellung auf Winterzeit, , , , 
+29,3,2015,-,29,3,2015,Zeitumstellung auf Sommerzeit, , , , 
+29,3,2020,-,29,3,2020,Zeitumstellung auf Sommerzeit , , , ,
+29,3,2020,-,29,3,2020,Zeitumstellung auf Sommerzeit, , , , 
+29,3,2020,29,3,2020,Zeitumstellung auf Sommerzeit, , , , 
+29,4,2014,-,29,4,2014,Security B-Sides, ,London, ,http://www.securitybsides.org.uk/
+29,4,2014,-,29,4,2014,Security B-Sideshttp://www.securitybsides.org.uk/, ,London,UK,
+29,4,2014,29,4,2014,Security B-Sides, ,London,UK,http://www.securitybsides.org.uk/
+29,8,2014,-,31,8,2014,Electromagnetic Field, , ,UK,https://www.emfcamp.org/
+29,8,2014,-,31,8,2014,Electromagnetic Fieldhttps://www.emfcamp.org/, , ,UK,
+29,8,2014,31,8,2014,Electromagnetic Field, , ,UK,https://www.emfcamp.org/
+29,9,2013,-,23,2,2013,Camp Zero, , , ,http://camp.hsbp.org/2013/zer0/index.html
+3,10,2013,-,23,2,2013,RGB2R, ,Heidelberg,Deutschland,http://rgb2r.noname-ev.de/
+3,11,2013,-,8,11,2013,LISA 13, ,Washigton DC,USA,https://www.usenix.org/conference/lisa13
+3,4,2015,-,6,4,2015,Easterhegghttp://www.easterhegg.eu, ,Braunschweig,Deutschland,
+3,4,2015,6,4,2015,Easterhegg, ,Braunschweig,Deutschland,http://www.easterhegg.eu
+3,5,2014,-,3,5,2014,Vintage Computer Festival, , , ,http://www.vcfe.org/D/
+3,8,2012,-,3,8,2012,ICMP, , ,Deutschland,http://icmp6.de
+3,8,2012,-,3,8,2012,ICMPhttps://erlangen.ccc.de/index.php/Hauptseite, ,Münchsteinach,Deutschland,
+3,8,2012,3,8,2012,ICMP, ,Münchsteinach,Deutschland,https://erlangen.ccc.de/index.php/Hauptseite
+3,9,2014,-,3,9,2014,Fantasy Filmfesthttp://www.fantasyfilmfest.com/, ,Stuttgart,Deutschland,
+3,9,2014,3,9,2014,Fantasy Filmfest, ,Stuttgart,Deutschland,http://www.fantasyfilmfest.com/
+30,10,2014,-,2,1,2014,RGB2Rhttp://rgb2r.noname-ev.de/,Bürgerhaus Schlierbach,Heidelberg,Deutschland,
+30,10,2014,2,1,2014,RGB2R,Bürgerhaus Schlierbach,Heidelberg,Deutschland,http://rgb2r.noname-ev.de/
+30,10,2016,-,30,10,2016,Zeitumstellung auf Winterzeit , , , ,
+30,10,2016,-,30,10,2016,Zeitumstellung auf Winterzeit, , , , 
+30,10,2016,30,10,2016,Zeitumstellung auf Winterzeit, , , , 
+30,3,2014,-,30,3,2014,Zeitumstellung auf Sommerzeit, , , , 
+30,5,2014,-,31,5,2014,Ruhrpott Rodeo, , ,Deutschland,http://www.ruhrpott-rodeo.de/de
+30,5,2014,-,31,5,2014,Ruhrpott Rodeohttp://www.ruhrpott-rodeo.de/, , ,Deutschland,
+30,5,2014,31,5,2014,Ruhrpott Rodeo, , ,Deutschland,http://www.ruhrpott-rodeo.de/
+30,7,2013,-,30,7,2013,IPv6 Hackers Meeting,Deutschland,Berlin, ,http://www.ipv6hackers.org/meetings/berlin-2013
+30,7,2013,-,30,7,2013,IPv6 Hackers Meetinghttp://www.ipv6hackers.org/meetings/berlin-2013, ,Berlin,Deutschland,
+30,7,2013,30,7,2013,IPv6 Hackers Meeting, ,Berlin,Deutschland,http://www.ipv6hackers.org/meetings/berlin-2013
+30,7,2015,-,1,8,2015,Wackenhttp://www.wacken.com/, , ,Deutschland,
+30,7,2015,1,8,2015,Wacken, , ,Deutschland,http://www.wacken.com/
+31,1,2013,-,1,2,2013,New Babylon, , , ,http://www.after-crisis.com/
+31,1,2013,-,1,2,2013,New Babylonhttp://www.after-crisis.com/, , , ,
+31,1,2013,1,2,2013,New Babylon, , , ,http://www.after-crisis.com/
+31,1,2015,-,1,2,2015,Fosdemhttps://fosdem.org,ULB,Brüssel,Belgien,
+31,1,2015,1,2,2015,Fosdem,ULB,Brüssel,Belgien,https://fosdem.org
+31,10,2014,-,31,10,2014,Emil Bulls,Substage,Karlsruhe,Deutschland,http://www.emilbulls.de/dates/
+31,3,2019,-,31,3,2019,Zeitumstellung auf Sommerzeit , , , ,
+31,3,2019,-,31,3,2019,Zeitumstellung auf Sommerzeit, , , , 
+31,3,2019,31,3,2019,Zeitumstellung auf Sommerzeit, , , , 
+31,5,2014,-,31,5,2014,Strombikehttp://www.strombike.de/,Stromberg,Bönnigheim,Deutschland,
+31,5,2014,31,5,2014,Strombike,Stromberg,Bönnigheim,Deutschland,http://www.strombike.de/
+31,7,2013,-,4,8,2013,Camp Holland OHM2013, , , ,https://ohm2013.org
+31,7,2013,-,4,8,2013,Camp OHM2013https://ohm2013.org, , ,Niederlande,
+31,7,2013,4,8,2013,Camp OHM2013, , ,Niederlande,https://ohm2013.org
+31,7,2014,-,2,8,2014,Wacken, , ,Deutschland,http://www.wacken.com/
+31,7,2014,-,3,8,2014,Haxogreenhttp://www.haxogreen.lu/,Belvedère,Dudelange,Luxemburg,
+31,7,2014,3,8,2014,Haxogreen,Belvedère,Dudelange,Luxemburg,http://www.haxogreen.lu/
+4,10,2014,-,4,10,2014,Trollconhttps://raumzeitlabor.de/wiki/Trollcon/2014,Raumzeitlabor,Mannheim,Deutschland,
+4,10,2014,4,10,2014,Trollcon,Raumzeitlabor,Mannheim,Deutschland,https://raumzeitlabor.de/wiki/Trollcon/2014
+4,2,2015,-,7,2,2015,Nullconhttp://nullcon.net/website/, ,Goa,Indien,
+4,2,2015,7,2,2015,Nullcon, ,Goa,Indien,http://nullcon.net/website/
+4,7,2013,-,7,7,2013,Stadtflucht, , ,Österreich,https://metalab.at/wiki/Stadtflucht
+4,7,2014,-,6,7,2014,Barcamp Bodensee, , ,Deutschland,http://barcampbodensee.mixxt.eu/
+4,7,2014,-,6,7,2014,Barcamp Bodenseehttp://barcampbodensee.mixxt.eu/, , ,Deutschland,
+4,7,2014,6,7,2014,Barcamp Bodensee, , ,Deutschland,http://barcampbodensee.mixxt.eu/
+5,10,2012,-,5,10,2012,DevOpsDays, , , ,http://devopsdays.org/
+5,10,2012,-,5,10,2012,DevOpsDayshttp://devopsdays.org/, , , ,
+5,10,2012,5,10,2012,DevOpsDays, , , ,http://devopsdays.org/
+5,10,2014,-,5,10,2014,Groningen Mini Maker Fairhttp://mf050.nl/, ,Groningen,Niederlande,
+5,10,2014,5,10,2014,Groningen Mini Maker Fair, ,Groningen,Niederlande,http://mf050.nl/
+5,11,2015,-,05,11,2015,Anti-Flaghttp://www.imwizemann.de/,Im Wizemann Halle,Stuttgart,Deutschland,
+5,11,2016,-,5,11,2016,Runrighttp://www.schleyerhalle.de/,Porsche Arena,Stuttgart,Deutschland,
+5,4,2014,-,5,4,2014,CRMCamphttp://crmcamp.mixxt.de/, ,Köln,Deutschland,
+5,4,2014,-,5,4,2014,LA BOHÈME,MET im Kino, , ,http://metimkino.de
+5,4,2014,-,5,4,2014,Pillow Fight Dayhttp://2013.pillowfightday.com/, , , ,
+5,4,2014,-,6,4,2014,Linux Open Admin Days, ,Antwerpen, ,http://loadays.org/
+5,4,2014,-,6,4,2014,Linux Open Admin Dayshttp://loadays.org/,Don Bosco Wilrijk,Antwerpen,Belgien,
+5,4,2014,5,4,2014,CRMCamp, ,Köln,Deutschland,http://crmcamp.mixxt.de/
+5,4,2014,5,4,2014,Pillow Fight Day, , , ,http://2013.pillowfightday.com/
+5,4,2014,6,4,2014,Linux Open Admin Days,Don Bosco Wilrijk,Antwerpen,Belgien,http://loadays.org/
+5,6,2014,-,5,6,2014,AStA Sommerfestivalihttp://www.das-sommerfestival.de/,Uni,Paderborn,Deutschland,
+5,6,2014,-,8,6,2014,Rock am Ring, , ,Deutschland,http://www.rock-am-ring.com/
+5,6,2014,-,8,6,2014,Rock am Ringhttp://www.rock-am-ring.com/, , ,Deutschland,
+5,6,2014,5,6,2014,AStA Sommerfestivali,Uni,Paderborn,Deutschland,http://www.das-sommerfestival.de/
+5,6,2014,8,6,2014,Rock am Ring, , ,Deutschland,http://www.rock-am-ring.com/
+5,7,2013,-,23,2,2013,Sigint, ,Köln,Deutschland,http://sigint.ccc.de/
+5,7,2013,-,23,2,2013,Siginthttp://sigint.ccc.de/, ,Köln,Deutschland,
+5,7,2013,23,2,2013,Sigint, ,Köln,Deutschland,http://sigint.ccc.de/
+5,7,2014,-,5,7,2014,Terraristikmesse Karlsruhe, ,Karlsruhe,Deutschland,http://www.terrarienboerse-ka.de/index.html
+5,8,2014,-,6,8,2014,Passwordshttp://passwordscon.org/,Tuscany Suites & Casino,Las Vegas,USA,
+5,8,2014,6,8,2014,Passwords,Tuscany Suites & Casino,Las Vegas,USA,http://passwordscon.org/
+5,9,2014,-,7,9,2014,MRMCDhttps://mrmcd.net/,Hochschule,Darmstadt,Deutschland,
+5,9,2014,7,9,2014,MRMCD,Hochschule,Darmstadt,Deutschland,https://mrmcd.net/
+6,2,2016,-,6,2,2016,Slipknothttp://www.slipknot1.com/events,Festhalle,Frankfurt,Deutschland,
+6,5,2014,-,8,5,2014,re:publica, ,Berlin,Deutschland,http://re-publica.de
+6,5,2014,-,8,5,2014,re:publicahttp://re-publica.de, ,Berlin,Deutschland,
+6,5,2014,8,5,2014,re:publica, ,Berlin,Deutschland,http://re-publica.de
+6,6,2013,-,6,6,2013,AStA Sommerfestival, ,Paderborn,Deutschland,http://www.das-sommerfestival.de/
+6,6,2014,-,9,6,2014,Sputnik Spring Break, ,Bitterfeld,Deutschland,http://www.sputnik.de/springbreak
+6,6,2014,-,9,6,2014,Sputnik Spring Breakhttp://www.sputnik.de/springbreak, ,Bitterfeld,Deutschland,
+6,6,2014,9,6,2014,Sputnik Spring Break, ,Bitterfeld,Deutschland,http://www.sputnik.de/springbreak
+6,8,2014,-,10,8,2014,eth0http://wiki.eth0.nl/index.php/Main_Page,Beusink Recreatie,Lievelde,Niederlande,
+6,8,2014,10,8,2014,eth0,Beusink Recreatie,Lievelde,Niederlande,http://wiki.eth0.nl/index.php/Main_Page
+6,9,2013,-,6,9,2013,Open Hardware Summit,MIT, , ,http://summit.oshwa.org
+6,9,2013,-,6,9,2013,Open Hardware Summithttp://summit.oshwa.org,MIT, ,USA,
+6,9,2013,6,9,2013,Open Hardware Summit,MIT, ,USA,http://summit.oshwa.org
+6,9,2014,-,6,9,2014,Rock am See, , ,Deutschland,http://www.rock-am-see.de/
+6,9,2014,-,6,9,2014,Rock am Seehttp://www.rock-am-see.de/, , ,Deutschland,
+6,9,2014,6,9,2014,Rock am See, , ,Deutschland,http://www.rock-am-see.de/
+7,2,2016,-,7,2,2016,Helloween ,LKA,Stuttgart,Deutschland,
+7,3,2012,-,9,3,2014,eth0, , , ,http://wiki.eth0.nl/index.php/Main_Page
+8,11,2014,-,8,11,2014,Terraristikmesse Karlsruhe, ,Karlsruhe,Deutschland,http://www.terrarienboerse-ka.de/index.html
+8,11,2014,-,8,11,2014,Terraristikmesse Karlsruhehttp://www.terrarienboerse-ka.de/index.html, ,Karlsruhe,Deutschland,
+8,11,2014,8,11,2014,Terraristikmesse Karlsruhe, ,Karlsruhe,Deutschland,http://www.terrarienboerse-ka.de/index.html
+8,11,2015,-,08,11,2015,Alice Cooperhttp://www.schleyerhalle.de/,Schleyerhalle,Stuttgart,Deutschland,
+8,4,2014,-,10,4,2014,Open Source Data Center Conference, ,Nürnberg,Deutschland,http://www.netways.de/osdc/overview/overview/
+8,5,2014,-,10,5,2014,Linuxtag, , ,Deutschland,http://www.linuxtag.org/
+8,5,2014,-,10,5,2014,Linuxtaghttp://www.linuxtag.org/, , ,Deutschland,
+8,5,2014,10,5,2014,Linuxtag, , ,Deutschland,http://www.linuxtag.org/
+8,7,2013,-,8,7,2013,Noiseless Vault, , , ,https://noiselessvault.org/
+8,7,2013,-,8,7,2013,Noiseless Vaulthttps://noiselessvault.org/, , , ,
+8,7,2013,8,7,2013,Noiseless Vault, , , ,https://noiselessvault.org/
+8,8,2012,-,8,8,2012,Toorcamp, , , ,http://toorcamp.org/
+8,9,2012,-,9,9,2012,Floss, , ,Kosovo,http://www.flossk.org/en/blog/software-freedom-kosova-2012
+8,9,2012,-,9,9,2012,Flosshttp://www.flossk.org/en/blog/software-freedom-kosova-2012, , ,Kosovo,
+8,9,2012,9,9,2012,Floss, , ,Kosovo,http://www.flossk.org/en/blog/software-freedom-kosova-2012
+9,10,2014,-,11,10,2014,push.conferencehttp://push-conference.com/, ,München, ,
+9,10,2014,11,10,2014,push.conference, ,München, ,http://push-conference.com/
+9,11,2014,-,14,11,2014,LISA 14https://www.usenix.org/conference/lisa14, ,Seattle,USA,
+9,11,2014,14,11,2014,LISA 14, ,Seattle,USA,https://www.usenix.org/conference/lisa14
+9,3,2016,-,11,3,2016,Deutscher Perl-Workshop 2016http://act.yapc.eu/gpw2016/, ,Nürnberg,Deutschland,
+9,3,2016,11,3,2016,Deutscher Perl-Workshop 2016, ,Nürnberg,Deutschland,http://act.yapc.eu/gpw2016/
+9,4,2015,-,12,4,2015,Markt des guten Geschmackshttp://www.messe-stuttgart.de/marktdesgutengeschmacks/,Messe,Stuttgart,Deutschland,
+9,4,2015,12,4,2015,Markt des guten Geschmacks,Messe,Stuttgart,Deutschland,http://www.messe-stuttgart.de/marktdesgutengeschmacks/
+9,5,2013,-,12,5,2013,LUG Camp, , , ,http://www.lugcamp.org/
+9,5,2013,-,12,5,2013,LUG Camphttp://www.lugcamp.org/, , , ,
+9,5,2013,12,5,2013,LUG Camp, , , ,http://www.lugcamp.org/
+9,5,2014,-,10,5,2014,PM Camp, ,Stuttgart,Deutschland,http://stuttgart.pm-camp.org/
+9,5,2014,-,10,5,2014,PM Camphttp://stuttgart.pm-camp.org/, ,Stuttgart,Deutschland,
+9,5,2014,10,5,2014,PM Camp, ,Stuttgart,Deutschland,http://stuttgart.pm-camp.org/
+9,7,2014,-,13,7,2014,Toorcamphttp://toorcamp.org/,Hobuck Beach Resort,Neah Bay,USA,
+9,7,2014,13,7,2014,Toorcamp,Hobuck Beach Resort,Neah Bay,USA,http://toorcamp.org/
+9,8,2014,-,9,8,2014,Seenachtfest, ,Konstanz,Deutschland,http://www.seenachtfest.de/
+9,8,2014,-,9,8,2014,Seenachtfesthttp://www.seenachtfest.de/, ,Konstanz,Deutschland,
+9,8,2014,9,8,2014,Seenachtfest, ,Konstanz,Deutschland,http://www.seenachtfest.de/
+99,99,2013,-,23,2,2013,Hamburger Maker-Treffen, ,Hamburg,Deutschland,http://www.hamburger-makertreffen.de/
+T,M,J, ,T,M,J,Was,Location,Stadt,Land,Url
