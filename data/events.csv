@@ -35,14 +35,14 @@ T,M,J, ,T,M,J,Was,Location,Stadt,Land,Url
 20,6,2013,-,22,6,2013,Strombike, , ,Deutschland,http://www.strombike.de/
 4,7,2013,-,7,7,2013,Stadtflucht, , ,Österreich,https://metalab.at/wiki/Stadtflucht
 5,7,2013,-,23,2,2013,Sigint, ,Köln,Deutschland,http://sigint.ccc.de/
-8,7,2013,-,8,7,2013,Noiseless Vault, , , ,https://noiselessvault.org/
+z,z,zzzz,-,8,7,2013,Noiseless Vault, , , ,https://noiselessvault.org/
 12,7,2013,-,12,7,2013,DIMVA, , ,Deutschland,http://dimva.sec.t-labs.tu-berlin.de/index.html
 30,7,2013,-,30,7,2013,IPv6 Hackers Meeting, ,Berlin,Deutschland,http://www.ipv6hackers.org/meetings/berlin-2013
 31,7,2013,-,4,8,2013,Camp OHM2013, , ,Niederlande,https://ohm2013.org
 11,8,2013,-,18,8,2013,DebConf13, , ,Schweiz,http://wiki.debconf.org/wiki/DebConf13
 17,8,2013,-,19,8,2013,Parkfest Nordheim, ,Nordheim,Deutschland,http://www.nordheim.de/website/de/gemeinde/tourismus/nordheimer_parkfest
 23,8,2013,-,25,8,2013,openmind #13, , ,Deutschland,http://13.openmind-konferenz.de/
-24,8,2013,-,25,8,2013,Froscon, , ,Deutschland,http://www.froscon.de
+24,8,2013,-,25,8,2013,Froscon, ,Bonn,Deutschland,http://www.froscon.de
 28,8,2013,-,4,9,2013,Fantasy Filmfest Stuttgart, ,Stuttgart,Deutschland,http://www.fantasyfilmfest.com/
 6,9,2013,-,6,9,2013,Open Hardware Summit,MIT, ,USA,http://summit.oshwa.org
 11,9,2013,-,11,9,2013,Networking Field Day, , , ,http://techfieldday.com/nfd/
@@ -70,13 +70,10 @@ T,M,J, ,T,M,J,Was,Location,Stadt,Land,Url
 15,3,2014,-,16,3,2014,Chemnitzer Linuxtage,Deutschland,Chemnitz, ,http://chemnitzer.linux-tage.de/
 17,3,2014,-,21,3,2014,Troopers, ,Heidelberg,Deutschland,https://www.troopers.de/
 19,3,2014,-,21,3,2014,FOSSGIS, ,Berlin,Deutschland,https://www.fossgis.de/konferenz/2014/
-20,3,2014,-,20,3,2014,SchnitzelS, ,Stuttgart,Deutschland,http://schnitzels.mixxt.de/
 22,3,2014,-,23,3,2014,Kulinart, ,Stuttgart,Deutschland,http://www.kulinart-messe.de/
 26,3,2014,-,28,3,2014,Deutscher Perl-Workshop 2014, ,Hannover,Deutschland,http://act.yapc.eu/gpw2014/
 28,3,2014,-,30,3,2014,Barcamp Heilbronn,Hochschule,Heilbronn,Deutschland,http://barcamp-heilbronn.mixxt.de/
 28,3,2014,-,30,3,2014,devops-camp, ,Nürnberg,Deutschland,http://www.devops-camp.de/
-30,3,2014,-,30,3,2014,Zeitumstellung auf Sommerzeit, , , , 
-5,4,2014,-,5,4,2014,CRMCamp, ,Köln,Deutschland,http://crmcamp.mixxt.de/
 5,4,2014,-,5,4,2014,CRMCamp, ,Köln,Deutschland,http://crmcamp.mixxt.de/
 5,4,2014,-,5,4,2014,LA BOHÈME,MET im Kino, , ,http://metimkino.de
 5,4,2014,-,6,4,2014,Linux Open Admin Days,Don Bosco Wilrijk,Antwerpen,Belgien,http://loadays.org/
@@ -93,7 +90,6 @@ T,M,J, ,T,M,J,Was,Location,Stadt,Land,Url
 6,5,2014,-,8,5,2014,re:publica, ,Berlin,Deutschland,http://re-publica.de
 8,5,2014,-,10,5,2014,Linuxtag, , ,Deutschland,http://www.linuxtag.org/
 9,5,2014,-,10,5,2014,PM Camp, ,Stuttgart,Deutschland,http://stuttgart.pm-camp.org/
-10,5,2014,-,10,5,2014,LA CENERENTOLA,MET im Kino, , ,http://metimkino.de
 12,5,2014,-,13,5,2014,Mailserver Konferenz, ,Berlin,Deutschland,https://www.heinlein-support.de/mailserver-konferenz
 19,5,2014,-,19,5,2014,Open Discussion Day, , , ,http://opendiscussionday.org/
 22,5,2014,-,23,5,2014,IPv6 Kongress, ,Frankfurt am Main,Deutschland,http://www.ipv6-kongress.de/events/ipv6-kongress/
@@ -143,17 +139,14 @@ T,M,J, ,T,M,J,Was,Location,Stadt,Land,Url
 23,8,2014,-,24,8,2014,Froscon,Hochschule Bonn-Rhein-Sieg,Sankt Augustin,Deutschland,http://www.froscon.de
 25,8,2014,-,1,9,2014,Burning Man, , ,USA,http://www.burningman.com/
 29,8,2014,-,31,8,2014,Electromagnetic Field, , ,UK,https://www.emfcamp.org/
-3,9,2014,-,3,9,2014,Fantasy Filmfest, ,Stuttgart,Deutschland,http://www.fantasyfilmfest.com/
 5,9,2014,-,7,9,2014,MRMCD,Hochschule,Darmstadt,Deutschland,https://mrmcd.net/
 6,9,2014,-,6,9,2014,Rock am See, , ,Deutschland,http://www.rock-am-see.de/
 10,9,2014,-,12,9,2014,Networking Field Day, ,Las Vegas,USA,http://techfieldday.com/nfd/
 12,9,2014,-,14,9,2014,devops-camp,Coworking Nürnberg,Nürnberg,Deutschland,http://www.devops-camp.de/
 12,9,2014,-,21,9,2014,Heilbronner Weindorf, ,Heilbronn,Deutschland,http://www.weindorf.biz/
 12,9,2014,-,13,9,2014,Riga Conference, ,Riga,Latvia,http://www.rigaconference.lv/
-12,9,2014,-,13,9,2014,Riga Conference, ,Riga,Latvia,http://www.rigaconference.lv/12
 13,9,2014,-,13,9,2014,Bodensee Radmarathon, , , ,http://www.bodensee-radmarathon.ch/
 13,9,2014,-,14,9,2014,Datenspuren,Scheune,Dresden,Deutschland,http://www.datenspuren.de/2014/
-20,9,2014,-,21,9,2014,Barcamp Stuttgart, ,Stuttgart,Deutschland,http://www.barcamp-stuttgart.de/
 20,9,2014,-,21,9,2014,Barcamp Stuttgart, ,Stuttgart,Deutschland,http://www.barcamp-stuttgart.de/
 21,9,2014,-,21,9,2014,Badenmarathon, ,Karlsruhe,Deutschland,http://www.badenmarathon.de
 22,9,2014,-,23,9,2014,Open Source Backup Conference 2014,NH Hotel Cologne Mediapark,Köln,Deutschland,http://osbconf.org/
@@ -169,16 +162,13 @@ T,M,J, ,T,M,J,Was,Location,Stadt,Land,Url
 14,10,2014,-,17,10,2014,Blackhat Europe, ,Amsterdam, ,http://www.blackhat4com/eu-13/
 17,10,2014,-,19,10,2014,Ubucon 2014, ,Katlenburg, ,http://ubucon.de/2013/
 24,10,2014,-,26,10,2014,hackover, , ,Deutschland,http://hackover.de/
-26,10,2014,-,26,10,2014,Zeitumstellung auf Winterzeit, , , , 
 30,10,2014,-,2,1,2014,RGB2R,Bürgerhaus Schlierbach,Heidelberg,Deutschland,http://rgb2r.noname-ev.de/
-8,11,2014,-,8,11,2014,Terraristikmesse Karlsruhe, ,Karlsruhe,Deutschland,http://www.terrarienboerse-ka.de/index.html
 9,11,2014,-,14,11,2014,LISA 14, ,Seattle,USA,https://www.usenix.org/conference/lisa14
 11,11,2014,-,11,11,2014,South Tyrol Free Software Conference,https://www.sfscon.it/de/, , ,
 15,11,2014,-,16,11,2014,Barcamp Karlsruhe, ,Karlsruhe,Deutschland,http://www.barcamp-karlsruhe.de/
 15,11,2014,-,16,11,2014,Kulinart,Phoenixhalle,Stuttgart,Deutschland,http://www.kulinart-messe.de/
 18,11,2014,-,21,11,2014,DeepSec, ,Wien,Österreich,https://deepsec.net
 18,11,2014,-,20,11,2014,OSMC Nürnberg, ,Nürnberg,Deutschland,http://www.netways.de/osmc/
-20,11,2014,-,20,11,2014,Denog 6, ,Darmstadt,Deutschland,http://www.denog.de/meetings/denog5/?lang=de
 20,11,2014,-,23,11,2014,Hobby Elektronik,Messe,Stuttgart,Deutschland,http://www.messe-stuttgart.de/hobby/
 20,11,2014,-,20,11,2014,IRISSCERT Cyber Crime Conference, ,Dublin, ,https://www.iriss.ie/iriss/irisscon.htm
 25,11,2014,-,21,12,2014,Esslingen Weihnachtsmarkt, ,Esslingen,Deutschland,http://tourist.esslingen.de/
@@ -187,9 +177,8 @@ T,M,J, ,T,M,J,Was,Location,Stadt,Land,Url
 27,12,2014,-,30,12,2014,31C3,CCH,Hamburg,Deutschland,http://events.ccc.de
 31,1,2015,-,1,2,2015,Fosdem,ULB,Brüssel,Belgien,https://fosdem.org
 4,2,2015,-,7,2,2015,Nullcon, ,Goa,Indien,http://nullcon.net/website/
-16,3,2015,-,20,3,2015,Troopershttps://www.troopers.de/, ,Heidelberg,Deutschland,
+16,3,2015,-,20,3,2015,Troopers, ,Heidelberg,Deutschland,https://www.troopers.de/
 21,3,2015,-,22,3,2015,Chemnitzer Linuxtage, ,Chemnitz,Deutschland,http://chemnitzer.linux-tage.de/
-29,3,2015,-,29,3,2015,Zeitumstellung auf Sommerzeit, , , , 
 3,4,2015,-,6,4,2015,Easterhegg, ,Braunschweig,Deutschland,http://www.easterhegg.eu
 9,4,2015,-,12,4,2015,Markt des guten Geschmacks,Messe,Stuttgart,Deutschland,http://www.messe-stuttgart.de/marktdesgutengeschmacks/
 18,4,2015,-,10,5,2015,Stuttgarter Frühlingsfest,Wasen,Stuttgart,Deutschland,http://www.stuttgarter-fruehlingsfest.de/
@@ -204,20 +193,10 @@ T,M,J, ,T,M,J,Was,Location,Stadt,Land,Url
 30,7,2015,-,1,8,2015,Wacken, , ,Deutschland,http://www.wacken.com/
 0,8,2015,-,31,8,2015,CCC Camp, , ,Deutschland,http://events.ccc.de 
 11,9,2015,-,20,9,2015,Heilbronner Weindorf, ,Heilbronn,Deutschland,http://www.weindorf.biz/
-25,10,2015,-,25,10,2015,Zeitumstellung auf Winterzeit, , , , 
 13,11,2015,-,15,11,2015,No-Spy Konferenz,Literaturhaus Stuttgart,Stuttgart,Deutschland,https://no-spy.org/
 1,12,2015,-,6,12,2015,chocolART Schokoladenfestival, ,Tübingen,Deutschland,http://www.chocolart.de/
-27,12,2015,-,30,12,2015,32C3,CCH,Hamburg,Deutschland,http://events.ccc.de
 9,3,2016,-,11,3,2016,Deutscher Perl-Workshop 2016, ,Nürnberg,Deutschland,http://act.yapc.eu/gpw2016/
-27,3,2016,-,27,3,2016,Zeitumstellung auf Sommerzeit, , , , 
-30,10,2016,-,30,10,2016,Zeitumstellung auf Winterzeit, , , , 
-27,12,2016,-,30,12,2016,33C3,CCH,Hamburg,Deutschland,http://events.ccc.de
 0,0,2017,-,0,0,2017,dOCUMENTA, ,Kassel,Deutschland,http://www.documenta.de/
-26,3,2017,-,26,3,2017,Zeitumstellung auf Sommerzeit, , , , 
-1,8,2017,-,31,8,2017,CCC Camp, , ,Niederlande,http://events.ccc.de
-29,10,2017,-,29,10,2017,Zeitumstellung auf Winterzeit, , , , 
-27,12,2017,-,30,12,2017,34C3,CCH,Leipzig,Deutschland,http://events.ccc.de
-25,3,2018,-,25,3,2018,Zeitumstellung auf Sommerzeit, , , , 
 28,10,2018,-,28,10,2018,Zeitumstellung auf Winterzeit, , , , 
 27,12,2018,-,30,12,2018,35C3,CCH,Leipzig,Deutschland,http://events.ccc.de
 14,2,2019,-,14,2,2019,Valentinstag, , , , 
