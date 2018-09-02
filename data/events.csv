@@ -1,12 +1,4 @@
 T,M,J, ,T,M,J,Was,Location,Stadt,Land,Url
-0,0,2019,-,20,2,2012,Fasching Ballei,Ballei,Neckarsulm,Deutschland,http://www.neckarsulm.de
-0,0,2019,-,20,8,2012,Erlenbacher Weinfest, ,Erlenbach,Deutschland,http://www.erlenbach-hn.de
-0,0,2019,-,3,9,2012,Ganzhornfest Neckarsulm, ,Neckarsulm,Deutschland,http://www.neckarsulm.de
-0,0,2019,-,15,5,2019,CPUG Conference, , , ,http://www.cpugcon.com/
-14,5,2019,-,15,5,2019,DevOpsDays, ,Zürich,Schweiz,http://devopsdays.org/
-0,0,2019,-,2,2,2013,Air Style, , , ,http://www.air-style.com
-0,0,2019,-,26,2,2013,Frühjahrsfachgespräch, , ,Deutschland,http://www.guug.de/veranstaltungen/
-19,6,2019,-,22,6,2019,Laube Seefest,Laube,Heilbronn,Deutschland,http://www.seefest-heilbronn.de/
 12,7,2013,-,12,7,2013,DIMVA, , ,Deutschland,http://dimva.sec.t-labs.tu-berlin.de/index.html
 30,7,2013,-,30,7,2013,IPv6 Hackers Meeting, ,Berlin,Deutschland,http://www.ipv6hackers.org/meetings/berlin-2013
 6,9,2013,-,6,9,2013,Open Hardware Summit,MIT, ,USA,http://summit.oshwa.org
@@ -120,11 +112,19 @@ T,M,J, ,T,M,J,Was,Location,Stadt,Land,Url
 3,12,2018,-,6,12,2018,Blackhat Europe, ,Amsterdam, ,http://www.blackhat.com/
 4,12,2018,-,9,12,2018,chocolART Schokoladenfestival, ,Tübingen,Deutschland,http://www.chocolart.de/
 27,12,2018,-,30,12,2018,35C3,CCH,Leipzig,Deutschland,http://events.ccc.de
+0,0,2019,-,15,5,2019,CPUG Conference, , , ,http://www.cpugcon.com/
+0,0,2019,-,2,2,2013,Air Style, , , ,http://www.air-style.com
+0,0,2019,-,20,2,2012,Fasching Ballei,Ballei,Neckarsulm,Deutschland,http://www.neckarsulm.de
+0,0,2019,-,20,8,2012,Erlenbacher Weinfest, ,Erlenbach,Deutschland,http://www.erlenbach-hn.de
+0,0,2019,-,26,2,2013,Frühjahrsfachgespräch, , ,Deutschland,http://www.guug.de/veranstaltungen/
+0,0,2019,-,3,9,2012,Ganzhornfest Neckarsulm, ,Neckarsulm,Deutschland,http://www.neckarsulm.de
 2,2,2019,-,3,2,2019,Fosdem, ,Brüssel,Belgien,https://fosdem.org
 14,2,2019,-,14,2,2019,Valentinstag, , , , 
 31,3,2019,-,31,3,2019,Zeitumstellung auf Sommerzeit, , , , 
 25,4,2019,-,28,4,2019,Markt des guten Geschmacks,Deutschland,Stuttgart, ,http://www.messe-stuttgart.de/marktdesgutengeschmacks/
+14,5,2019,-,15,5,2019,DevOpsDays, ,Zürich,Schweiz,http://devopsdays.org/
 7,6,2019,-,9,6,2019,Rock am Ring, , ,Deutschland,http://www.rock-am-ring.com/
+19,6,2019,-,22,6,2019,Laube Seefest,Laube,Heilbronn,Deutschland,http://www.seefest-heilbronn.de/
 11,7,2019,-,13,7,2019,Happiness Festival, ,Straubenhardt,Deutschland,http://happiness-festival.de/
 19,7,2019,-,21,7,2019,Das Fest, ,Karlsruhe,Deutschland,http://www.dasfest.net/
 1,8,2019,-,31,8,2019,CCC Camp, , ,Deutschland,http://events.ccc.de
