@@ -1,8 +1,4 @@
 T,M,J, ,T,M,J,Was,Location,Stadt,Land,Url
-0,0,2019,-,29,4,2014,Security B-Sides, ,London,UK,http://www.securitybsides.org.uk/
-0,0,2019,-,6,7,2014,Barcamp Bodensee, , ,Deutschland,http://www.barcamp-bodensee.de/
-0,0,2019,-,10,8,2014,eth0,Beusink Recreatie,Lievelde,Niederlande,http://wiki.eth0.nl/index.php/Main_Page
-27,11,2018,-,23,12,2018,Weihnachtsmarkt LB, ,Ludwigsburg,Deutschland,http://www.ludwigsburg.de/start/tourismus/weihnachtsmarkt.html
 6,9,2018,-,16,9,2018,Heilbronner Weindorf, ,Heilbronn,Deutschland,http://www.weindorf.biz/
 25,9,2018,-,30,9,2018,Fantasy Filmfest Stuttgart, ,Stuttgart,Deutschland,http://www.fantasyfilmfest.com/
 26,9,2018,-,26,9,2018,Open Source Backup Conference, ,Köln,Deutschland,http://osbconf.org/
@@ -19,6 +15,7 @@ T,M,J, ,T,M,J,Was,Location,Stadt,Land,Url
 22,11,2018,-,22,11,2018,IRISSCERT Cyber Crime Conference, ,Dublin,Ireland,http://www.iriss.ie/IRISSCON.html
 22,11,2018,-,26,11,2018,Hobby Elektronik,Messe,Stuttgart,Deutschland,http://www.messe-stuttgart.de/hobby/
 27,11,2018,-,21,12,2018,Esslingen Weihnachtsmarkt, ,Esslingen,Deutschland,http://tourist.esslingen.de/
+27,11,2018,-,23,12,2018,Weihnachtsmarkt LB, ,Ludwigsburg,Deutschland,http://www.ludwigsburg.de/start/tourismus/weihnachtsmarkt.html
 27,11,2018,-,30,11,2018,DeepSec, ,Wien,Österreich,https://deepsec.net
 3,12,2018,-,6,12,2018,Blackhat Europe, ,Amsterdam, ,http://www.blackhat.com/
 4,12,2018,-,9,12,2018,chocolART Schokoladenfestival, ,Tübingen,Deutschland,http://www.chocolart.de/
@@ -26,6 +23,7 @@ T,M,J, ,T,M,J,Was,Location,Stadt,Land,Url
 0,0,2019,-,0,0,2019,Tufinnovate, , , ,https://www.tufin.com
 0,0,2019,-,1,1,2014,HITBSECCONF, ,Amsterdam,Niederlande,http://conference.hitb.org/
 0,0,2019,-,10,5,2014,PM Camp, ,Stuttgart,Deutschland,http://stuttgart.pm-camp.org/
+0,0,2019,-,10,8,2014,eth0,Beusink Recreatie,Lievelde,Niederlande,http://wiki.eth0.nl/index.php/Main_Page
 0,0,2019,-,11,11,2014,South Tyrol Free Software Conference, , , ,https://www.sfscon.it/de/
 0,0,2019,-,11,3,2016,Deutscher Perl-Workshop 2016, ,Nürnberg,Deutschland,http://act.perlconference.org
 0,0,2019,-,11,7,2015,Lichterfest Stuttgart, ,Stuttgart,Deutschland,http://www.lichterfest-stuttgart.de/
@@ -56,6 +54,7 @@ T,M,J, ,T,M,J,Was,Location,Stadt,Land,Url
 0,0,2019,-,25,8,2014,Schäferlauf Markgröningen, ,Markgröningen,Deutschland,http://www.markgroeningen.de
 0,0,2019,-,26,10,2014,hackover, , ,Deutschland,http://hackover.de/
 0,0,2019,-,26,2,2013,Frühjahrsfachgespräch, , ,Deutschland,http://www.guug.de/veranstaltungen/
+0,0,2019,-,29,4,2014,Security B-Sides, ,London,UK,http://www.securitybsides.org.uk/
 0,0,2019,-,29,6,2014,RockAField, ,Luxemburg,Luxemburg,http://www.rockafield.lu/
 0,0,2019,-,3,5,2015,Vintage Computer Festival, , , ,http://www.vcfe.org/D/
 0,0,2019,-,3,6,2014,Area 41, , ,Schweiz,http://area41.io/
@@ -69,6 +68,7 @@ T,M,J, ,T,M,J,Was,Location,Stadt,Land,Url
 0,0,2019,-,5,4,2014,Pillow Fight Day, , , ,http://www.pillowfightday.com/
 0,0,2019,-,5,6,2014,AStA Sommerfestivali,Uni,Paderborn,Deutschland,http://www.das-sommerfestival.de/
 0,0,2019,-,6,4,2014,Linux Open Admin Days,Don Bosco Wilrijk,Antwerpen,Belgien,http://loadays.org/
+0,0,2019,-,6,7,2014,Barcamp Bodensee, , ,Deutschland,http://www.barcamp-bodensee.de/
 0,0,2019,-,6,8,2014,Passwords,Tuscany Suites & Casino,Las Vegas,USA,http://passwordscon.org/
 0,0,2019,-,6,9,2013,Open Hardware Summit,MIT, ,USA,http://www.oshwa.org
 0,0,2019,-,6,9,2014,Rock am See, , ,Deutschland,http://www.rock-am-see.de/
