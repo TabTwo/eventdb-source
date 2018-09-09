@@ -1,31 +1,7 @@
 T,M,J, ,T,M,J,Was,Location,Stadt,Land,Url
-0,0,2019,-,0,0,2019,Tufinnovate, , , ,https://www.tufin.com
-0,0,2019,-,30,7,2013,IPv6 Hackers Meeting, ,Berlin,Deutschland,http://www.ipv6hackers.org/meetings/berlin-2013
-0,0,2019,-,6,9,2013,Open Hardware Summit,MIT, ,USA,http://www.oshwa.org
-0,0,2019,-,20,9,2013,Monitorama, ,Berlin,Deutschland,http://monitorama.eu/
-0,0,2019,-,23,2,2013,Camp +, , , ,https://camp.hsbp.org
-0,0,2019,-,1,1,2014,HITBSECCONF, ,Amsterdam,Niederlande,http://conference.hitb.org/
-16,3,2019,-,17,3,2019,Chemnitzer Linuxtage, ,Chemnitz,Deutschland,http://chemnitzer.linux-tage.de/
-13,3,2019,-,16,3,2019,FOSSGIS, ,Dresden,Deutschland,https://www.fossgis.de/konferenz/2019/
-0,0,2019,-,30,3,2014,Barcamp Heilbronn,Hochschule,Heilbronn,Deutschland,https://connect-it.hn/barcamp-heilbronn/
-0,0,2019,-,5,4,2014,MET im Kino,MET im Kino, , ,http://metimkino.de
-0,0,2019,-,5,4,2014,Pillow Fight Day, , , ,http://www.pillowfightday.com/
-0,0,2019,-,6,4,2014,Linux Open Admin Days,Don Bosco Wilrijk,Antwerpen,Belgien,http://loadays.org/
-19,4,2019,-,22,4,2019,Easterhegg,TU Wien,Wien,Österreich,http://www.easterhegg.eu
 29,4,2014,-,29,4,2014,Security B-Sides, ,London,UK,http://www.securitybsides.org.uk/
-0,0,2019,-,8,5,2014,re:publica, ,Berlin,Deutschland,http://re-publica.de
-0,0,2019,-,10,5,2014,PM Camp, ,Stuttgart,Deutschland,http://stuttgart.pm-camp.org/
-5,7,2019,-,7,7,2019,Ruhrpott Rodeo, , ,Deutschland,http://www.ruhrpott-rodeo.de/
-0,0,2019,-,31,5,2014,Strombike,Stromberg,Bönnigheim,Deutschland,http://www.strombike.de/
-0,0,2019,-,3,6,2014,Area 41, , ,Schweiz,http://area41.io/
-0,0,2019,-,5,6,2014,AStA Sommerfestivali,Uni,Paderborn,Deutschland,http://www.das-sommerfestival.de/
-0,0,2019,-,9,6,2014,Sputnik Spring Break, ,Bitterfeld,Deutschland,http://www.sputnik.de/springbreak
 14,6,2014,-,15,6,2014,Backbone 409, ,Barcelona,Spanien,http://backbone409.calafou.org/
 16,6,2014,-,17,6,2014,DFN-Forum Kommunikationstechnologien, ,Fulda,Deutschland,http://dfn2014.hs-fulda.de/
-0,0,2019,-,22,6,2014,GPN, ,Karlsruhe,Deutschland,https://entropia.de/GPN
-26,6,2019,-,30,6,2019,Fusion Festival, , ,Deutschland,http://www.fusion-festival.de/
-0,0,2019,-,29,6,2014,RockAField, ,Luxemburg,Luxemburg,http://www.rockafield.lu/
-29,6,2019,-,6,7,2019,Roskilde, , ,Dänemark,http://roskilde-festival.dk/
 4,7,2014,-,6,7,2014,Barcamp Bodensee, , ,Deutschland,http://barcampbodensee.mixxt.eu/
 9,7,2014,-,13,7,2014,Toorcamp,Hobuck Beach Resort,Neah Bay,USA,http://toorcamp.org/
 10,7,2014,-,13,7,2014,Stadtflucht, , ,Österreich,https://metalab.at/wiki/Stadtflucht
@@ -99,16 +75,40 @@ T,M,J, ,T,M,J,Was,Location,Stadt,Land,Url
 27,11,2018,-,21,12,2018,Esslingen Weihnachtsmarkt, ,Esslingen,Deutschland,http://tourist.esslingen.de/
 3,12,2018,-,6,12,2018,Blackhat Europe, ,Amsterdam, ,http://www.blackhat.com/
 4,12,2018,-,9,12,2018,chocolART Schokoladenfestival, ,Tübingen,Deutschland,http://www.chocolart.de/
+0,0,2019,-,0,0,2019,Tufinnovate, , , ,https://www.tufin.com
+0,0,2019,-,1,1,2014,HITBSECCONF, ,Amsterdam,Niederlande,http://conference.hitb.org/
+0,0,2019,-,10,5,2014,PM Camp, ,Stuttgart,Deutschland,http://stuttgart.pm-camp.org/
 0,0,2019,-,15,5,2019,CPUG Conference, , , ,http://www.cpugcon.com/
 0,0,2019,-,2,2,2013,Air Style, , , ,http://www.air-style.com
 0,0,2019,-,20,2,2012,Fasching Ballei,Ballei,Neckarsulm,Deutschland,http://www.neckarsulm.de
 0,0,2019,-,20,8,2012,Erlenbacher Weinfest, ,Erlenbach,Deutschland,http://www.erlenbach-hn.de
+0,0,2019,-,20,9,2013,Monitorama, ,Berlin,Deutschland,http://monitorama.eu/
+0,0,2019,-,22,6,2014,GPN, ,Karlsruhe,Deutschland,https://entropia.de/GPN
+0,0,2019,-,23,2,2013,Camp +, , , ,https://camp.hsbp.org
 0,0,2019,-,26,2,2013,Frühjahrsfachgespräch, , ,Deutschland,http://www.guug.de/veranstaltungen/
+0,0,2019,-,29,6,2014,RockAField, ,Luxemburg,Luxemburg,http://www.rockafield.lu/
+0,0,2019,-,3,6,2014,Area 41, , ,Schweiz,http://area41.io/
 0,0,2019,-,3,9,2012,Ganzhornfest Neckarsulm, ,Neckarsulm,Deutschland,http://www.neckarsulm.de
+0,0,2019,-,30,3,2014,Barcamp Heilbronn,Hochschule,Heilbronn,Deutschland,https://connect-it.hn/barcamp-heilbronn/
+0,0,2019,-,30,7,2013,IPv6 Hackers Meeting, ,Berlin,Deutschland,http://www.ipv6hackers.org/meetings/berlin-2013
+0,0,2019,-,31,5,2014,Strombike,Stromberg,Bönnigheim,Deutschland,http://www.strombike.de/
+0,0,2019,-,5,4,2014,MET im Kino,MET im Kino, , ,http://metimkino.de
+0,0,2019,-,5,4,2014,Pillow Fight Day, , , ,http://www.pillowfightday.com/
+0,0,2019,-,5,6,2014,AStA Sommerfestivali,Uni,Paderborn,Deutschland,http://www.das-sommerfestival.de/
+0,0,2019,-,6,4,2014,Linux Open Admin Days,Don Bosco Wilrijk,Antwerpen,Belgien,http://loadays.org/
+0,0,2019,-,6,9,2013,Open Hardware Summit,MIT, ,USA,http://www.oshwa.org
+0,0,2019,-,8,5,2014,re:publica, ,Berlin,Deutschland,http://re-publica.de
+0,0,2019,-,9,6,2014,Sputnik Spring Break, ,Bitterfeld,Deutschland,http://www.sputnik.de/springbreak
 2,2,2019,-,3,2,2019,Fosdem, ,Brüssel,Belgien,https://fosdem.org
+13,3,2019,-,16,3,2019,FOSSGIS, ,Dresden,Deutschland,https://www.fossgis.de/konferenz/2019/
+16,3,2019,-,17,3,2019,Chemnitzer Linuxtage, ,Chemnitz,Deutschland,http://chemnitzer.linux-tage.de/
+19,4,2019,-,22,4,2019,Easterhegg,TU Wien,Wien,Österreich,http://www.easterhegg.eu
 25,4,2019,-,28,4,2019,Markt des guten Geschmacks,Deutschland,Stuttgart, ,http://www.messe-stuttgart.de/marktdesgutengeschmacks/
 14,5,2019,-,15,5,2019,DevOpsDays, ,Zürich,Schweiz,http://devopsdays.org/
 7,6,2019,-,9,6,2019,Rock am Ring, , ,Deutschland,http://www.rock-am-ring.com/
 19,6,2019,-,22,6,2019,Laube Seefest,Laube,Heilbronn,Deutschland,http://www.seefest-heilbronn.de/
+26,6,2019,-,30,6,2019,Fusion Festival, , ,Deutschland,http://www.fusion-festival.de/
+29,6,2019,-,6,7,2019,Roskilde, , ,Dänemark,http://roskilde-festival.dk/
+5,7,2019,-,7,7,2019,Ruhrpott Rodeo, , ,Deutschland,http://www.ruhrpott-rodeo.de/
 11,7,2019,-,13,7,2019,Happiness Festival, ,Straubenhardt,Deutschland,http://happiness-festival.de/
 19,7,2019,-,21,7,2019,Das Fest, ,Karlsruhe,Deutschland,http://www.dasfest.net/
