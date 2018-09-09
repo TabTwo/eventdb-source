@@ -1,28 +1,20 @@
 T,M,J, ,T,M,J,Was,Location,Stadt,Land,Url
 0,0,2019,-,0,0,2019,Tufinnovate, , , ,https://www.tufin.com
-12,7,2013,-,12,7,2013,DIMVA, , ,Deutschland,http://dimva.sec.t-labs.tu-berlin.de/index.html
-30,7,2013,-,30,7,2013,IPv6 Hackers Meeting, ,Berlin,Deutschland,http://www.ipv6hackers.org/meetings/berlin-2013
-6,9,2013,-,6,9,2013,Open Hardware Summit,MIT, ,USA,http://summit.oshwa.org
-19,9,2013,-,20,9,2013,Monitorama, ,Berlin,Deutschland,http://monitorama.eu/
-29,9,2013,-,23,2,2013,Camp Zero, , , ,http://camp.hsbp.org/2013/zer0/index.html
-2,10,2013,-,4,10,2013,Community Wireless Networks, ,Berlin,Deutschland,http://2013.wirelesssummit.org/
-12,10,2013,-,12,10,2013,Groningen Mini Maker Fair, ,Groningen, ,http://mf050.nl/
-25,10,2013,-,27,10,2013,Not so secure CTF, , , ,http://ctf.notsosecure.com/
-22,11,2013,-,24,11,2013,Startup Weekend Stuttgart, ,Stuttgart,Deutschland,http://stuttgart.startupweekend.org/
+0,0,2019,-,30,7,2013,IPv6 Hackers Meeting, ,Berlin,Deutschland,http://www.ipv6hackers.org/meetings/berlin-2013
+0,0,2019,-,6,9,2013,Open Hardware Summit,MIT, ,USA,http://www.oshwa.org
+0,0,2019,-,20,9,2013,Monitorama, ,Berlin,Deutschland,http://monitorama.eu/
+0,0,2019,-,23,2,2013,Camp +, , , ,https://camp.hsbp.org
 0,0,2019,-,1,1,2014,HITBSECCONF, ,Amsterdam,Niederlande,http://conference.hitb.org/
 16,3,2019,-,17,3,2019,Chemnitzer Linuxtage, ,Chemnitz,Deutschland,http://chemnitzer.linux-tage.de/
 13,3,2019,-,16,3,2019,FOSSGIS, ,Dresden,Deutschland,https://www.fossgis.de/konferenz/2019/
 0,0,2019,-,30,3,2014,Barcamp Heilbronn,Hochschule,Heilbronn,Deutschland,https://connect-it.hn/barcamp-heilbronn/
-5,4,2014,-,5,4,2014,LA BOHÈME,MET im Kino, , ,http://metimkino.de
-5,4,2014,-,5,4,2014,Pillow Fight Day, , , ,http://2013.pillowfightday.com/
+0,0,2019,-,5,4,2014,MET im Kino,MET im Kino, , ,http://metimkino.de
+0,0,2019,-,5,4,2014,Pillow Fight Day, , , ,http://www.pillowfightday.com/
 0,0,2019,-,6,4,2014,Linux Open Admin Days,Don Bosco Wilrijk,Antwerpen,Belgien,http://loadays.org/
 19,4,2019,-,22,4,2019,Easterhegg,TU Wien,Wien,Österreich,http://www.easterhegg.eu
 29,4,2014,-,29,4,2014,Security B-Sides, ,London,UK,http://www.securitybsides.org.uk/
 0,0,2019,-,8,5,2014,re:publica, ,Berlin,Deutschland,http://re-publica.de
 0,0,2019,-,10,5,2014,PM Camp, ,Stuttgart,Deutschland,http://stuttgart.pm-camp.org/
-12,5,2014,-,13,5,2014,Mailserver Konferenz, ,Berlin,Deutschland,https://www.heinlein-support.de/mailserver-konferenz
-19,5,2014,-,19,5,2014,Open Discussion Day, , , ,http://opendiscussionday.org/
-22,5,2014,-,23,5,2014,IPv6 Kongress, ,Frankfurt am Main,Deutschland,http://www.ipv6-kongress.de/events/ipv6-kongress/
 5,7,2019,-,7,7,2019,Ruhrpott Rodeo, , ,Deutschland,http://www.ruhrpott-rodeo.de/
 0,0,2019,-,31,5,2014,Strombike,Stromberg,Bönnigheim,Deutschland,http://www.strombike.de/
 0,0,2019,-,3,6,2014,Area 41, , ,Schweiz,http://area41.io/
@@ -94,7 +86,6 @@ T,M,J, ,T,M,J,Was,Location,Stadt,Land,Url
 26,6,2015,-,28,6,2015,HAM RADIO,Messe,Friedrichshafen,Deutschland,http://www.hamradio-friedrichshafen.de/
 11,7,2015,-,11,7,2015,Lichterfest Stuttgart, ,Stuttgart,Deutschland,http://www.lichterfest-stuttgart.de/
 30,7,2015,-,1,8,2015,Wacken, , ,Deutschland,http://www.wacken.com/
-0,8,2015,-,31,8,2015,CCC Camp, , ,Deutschland,http://events.ccc.de 
 13,11,2015,-,15,11,2015,No-Spy Konferenz,Literaturhaus Stuttgart,Stuttgart,Deutschland,https://no-spy.org/
 9,3,2016,-,11,3,2016,Deutscher Perl-Workshop 2016, ,Nürnberg,Deutschland,http://act.yapc.eu/gpw2016/
 0,0,2017,-,0,0,2017,dOCUMENTA, ,Kassel,Deutschland,http://www.documenta.de/
